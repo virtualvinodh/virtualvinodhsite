@@ -1,10 +1,10 @@
 <template>
   <q-page padding>
     <p class="text-h4"> Research </p>
-      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="science" class="q-mr-sm"/>Research Area</p>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="science" class="q-mr-sm"/>Research Areas</p>
       <q-chip v-for="dom in research" :key="dom">{{dom}}</q-chip> <br/>
       <a href="https://scholar.google.com/citations?user=nSdc3nIAAAAJ&hl=en" target="_blank" ><q-img src="../assets/googlescholar-logo.png" width="150px" class="q-ma-lg"/></a>
-      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="school" class="q-mr-sm"/>PhD Thesis</p>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="school" class="q-mr-sm"/>Doctoral Thesis</p>
       <ul>
         <li v-for="(pub, index) in thesis" :key="'thesis-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'thesis-'+index+'-key-'+indexk" class="q-ma-xs" color="grey-6">{{tag}}</q-badge></li>
       </ul>

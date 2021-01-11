@@ -12,6 +12,7 @@
     <p class="text-body2">
 Adinatha is a working Unicode Tamil Brahmi font. Named after Adinatha, the first Tirthankara of Jains, in honour of the Jains having introduced Brahmi to the Tamil region, this font will hopefully help in properly digitizing old Tamil writing in the Brahmi script. Adinatha Tirthankara is traditionally attributed for the creation of the first (Indian) writing system.
     </p>
+    <p> (Click <a href="/writings/assorted/tamil-brahmi">here</a> to read a short introduction to Tamil-Brami) </p>
      <q-img src="../../assets/tamil-brahmi-epigraphy.png" width="350px" /> <br/>
      <em>Tamil Brahmi epigraph</em><br/><br/>
     <q-img src="../../assets/tamil-brahmi-font.png" width="350px" /> <br/>
@@ -22,9 +23,11 @@ Adinatha is a working Unicode Tamil Brahmi font. Named after Adinatha, the first
 
 <p>You can download the font package <a href="http://www.virtualvinodh.com/download/Adinatha-Tamil-Brahmi.zip">here</a>. The font manual can be read from <a href="http://virtualvinodh.com/pdfs/Adinatha_Tamil_Brahmi_Manual.pdf">here</a>.</p>
 
+<p>You can also use <a href="http://tamiljinavani.appspot.com" target="_blank">Jinavani</a> to convert modern Tamil script into Tamil-Brahmi and download the rendered text as an image.</p>
+
 <p class="text-h5"> Issues </p>
 <p>Due to issues with Microsoft's Universal Shaping Engine, the font does not work with Microsoft products like Microsoft Word. To avoid such issues, we have recently <a href="https://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf" target="_blank">proposed</a> adding them as independent atomic characters in Unicode. A new version of the font will be released, when the characters are published in an updated version of the Unicode standard.</p>
-<p>Until then, we suggest using Harfbuzz-enabled projects such as Libreoffice, Chrome or Firefox to use the font. You can also use <a href="http://tamiljinavani.appspot.com" target="_blank">Jinavani</a> to convert modern Tamil script into Tamil-Brahmi and download the rendered text as an image.</p>
+<p>Until then, we suggest using Harfbuzz-enabled projects such as Libreoffice, Chrome or Firefox to use the font. </p>
 </div>
   </q-page>
 </template>

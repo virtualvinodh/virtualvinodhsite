@@ -370,6 +370,13 @@ const routes = [
     ]
   },
   {
+    path: '/writings/assorted/tamil-brahmi',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [
+      { path: '', component: () => import('pages/assorted/TamilBrahmi.vue') }
+    ]
+  },
+  {
     path: '/writings/tamil',
     component: () => import('layouts/MainLayout.vue'),
     children: [

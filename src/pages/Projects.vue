@@ -5,11 +5,14 @@
       <p class="text-h5"> Development Area </p>
       <q-chip v-for="dom in devarea" :key="dom">{{dom}}</q-chip>
       <br/><br/>
-      <a href="https://github.com/virtualvinodh" target="_blank"><q-img src="../assets/github-logo.png" width="150px" class="q-ma-xs"/></a>
-      <a href="https://pypi.org/project/aksharamukha/" target="_blank"><q-img src="../assets/pip.svg" width="80px" class="q-ma-xs"/></a>
-      <a href="https://play.google.com/store/apps/developer?id=Virtual+Vinodh&hl=en_GB" target="_blank"><q-img src="../assets/googleplay-logo.png" width="150px"  class="q-ma-xs" /></a>
-      <a href="https://chrome.google.com/webstore/search/virtualvinodh?hl=en" target="_blank"><q-img src="../assets/googlechrome-logo.png" width="150px" class="q-ma-xs" /></a>
-      <a href="https://hub.docker.com/u/virtualvinodh" target="_blank"><q-img src="../assets/docker-logo.png" width="150px"  class="q-ma-xs"/></a><br/><br/>
+
+      <p class="text-h6"> Code/Project Repositories </p>
+
+      <a href="https://github.com/virtualvinodh" target="_blank"><q-img src="../assets/github-logo.png" width="100px" class="q-ma-xs"/></a>
+      <a href="https://pypi.org/project/aksharamukha/" target="_blank"><q-img src="../assets/pip.svg" width="50px" class="q-ma-xs"/></a>
+      <a href="https://play.google.com/store/apps/developer?id=Virtual+Vinodh&hl=en_GB" target="_blank"><q-img src="../assets/googleplay-logo.png" width="100px"  class="q-ma-xs" /></a>
+      <a href="https://chrome.google.com/webstore/search/virtualvinodh?hl=en" target="_blank"><q-img src="../assets/googlechrome-logo.png" width="100px" class="q-ma-xs" /></a>
+      <a href="https://hub.docker.com/u/virtualvinodh" target="_blank"><q-img src="../assets/docker-hub-logo.png" width="50px"  class="q-ma-xs"/></a><br/><br/>
 
     <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="translate" class="q-mr-sm"/>Languages & Writing Systems</p>
       <div class="q-pa-md row items-start q-gutter-md">

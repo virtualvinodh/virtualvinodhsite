@@ -4,7 +4,7 @@
 
       <q-breadcrumbs-el label="Home" icon="home" to="/" />
       <q-breadcrumbs-el label="Writings" icon="create" to="/writings" />
-      <q-breadcrumbs-el label="Brahmi" to="/writings/Brahmi" />
+      <q-breadcrumbs-el label="Brahmi" to="/writings/brahmi" />
       <q-breadcrumbs-el label="Noble Path"/>
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">

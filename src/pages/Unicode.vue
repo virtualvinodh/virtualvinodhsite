@@ -231,42 +231,42 @@ export default {
         {
           name: 'Brahmi Old Tamil Short E',
           char: '𑁱',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },
         {
           name: 'Brahmi Old Tamil Short O',
           char: '𑁲',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },
         {
           name: 'Brahmi Vowel Sign OT Short E',
           char: '𑁳',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },
         {
           name: 'Brahmi Vowel Sign OT Short O',
           char: '𑁴',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },
         {
           name: 'Brahmi Old Tamil LLA',
           char: '𑁵',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },
         {
           name: 'Brahmi Old Tamil Virama',
           char: '𑁰',
-          script: 'tamilbrahmi',
+          script: 'tamilbrahmicodechart',
           docid: 'L2/19-402',
           doclink: 'http://www.unicode.org/L2/L2019/19402-brahmi-adds.pdf'
         },

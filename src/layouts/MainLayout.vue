@@ -137,6 +137,26 @@ export default {
   src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/AgastyaSerif.otf')
 }
 
+@font-face {
+  font-family: 'Agastya Sans';
+  src: url('../assets/agastya_sans.otf')
+}
+
+@font-face {
+  font-family: 'Lopamudra Sans';
+  src: url('../assets/lopamudra_sans.otf')
+}
+
+@font-face {
+  font-family: 'Lopamudra Serif';
+  src: url('../assets/lopamudra_serif.otf')
+}
+
+@font-face {
+  font-family: 'Agastya Serif';
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/AgastyaSerif.otf')
+}
+
 .telugu2 {
   font-family: "Telugu Codechart" !important
 }
@@ -150,12 +170,12 @@ export default {
   font-family: "Lao Pali" !important
 }
 
-.tamilbrahmi {
+.tamilbrahmicodechart {
   font-family: "Tamil Brahmi" !important
 }
 
 .tamilextended {
-  font-family: "Agastya Sans" !important;
+  font-family: "Agastya Extended Tamil" !important;
   line-height: 1.6em;
 }
 .tamilextendedss {

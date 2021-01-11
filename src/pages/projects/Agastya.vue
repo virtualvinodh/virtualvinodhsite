@@ -52,7 +52,7 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
 
 <p>Lopamudra is a variant of the Agastya typeface with these modified forms. Inspired by Grantha forms, we introduce minor changes to <span class="tamilextended">ക ച ട ത & പ</span> resulting in the forms <span class="lopamudrasans">ക ച ട ത & പ</span>. The modified shapes of  <span class="lopamudrasans demo">ക ച ത</span> with a small curve below is based on Grantha <span class="grantha">𑌕</span> and those of <span class="lopamudrasans demo">ട പ</span> with a small vertical line underneath is based on Grantha <span class="grantha">𑌟</span>. Also, Agastya, following Tamil script principles, doesn't  distinguish the right part of -au vowel sign and l̤. For instance, <span class="tamilextended">കൌ</span> /kau/ and <span class="tamilextended">കെള</span> /kĕl̤a/ have the same appearance. Lopamudra additionally tries to remedy this by adopting the corresponding Grantha character for the retroflex letter to visually distinguish them as <span class="lopamudrasans">കൌ</span> and <span class="lopamudrasans">കെള</span>. <p>
 <p>Lopamudra also attempts to distinguish <span class="tamilextendedss">ഥ</span> /tha/ and <span class="tamilextendedss">ധ</span> /dha/ from <span class="tamilextendedss">യ</span> /ya/. The variant forms were inspired by the forms appearing in handwritten manuscripts. We reduced the height of /tha/ and /dha/ to make these character a bit more obvious and distinct.</p>
-<p class="tamilextendedss"><big>ഥ ധ യ</big></p>
+<p class="lopamudrasans"><big>ഥ ധ യ</big></p>
 
 <p>Similar to Agastya, Lopamudra is available as Sans and Serif. </p>
 

@@ -9,7 +9,7 @@
 
     <p class="text-h5">Assorted</p>
     <p class="text-body2">
-        An assorted list of articles that I have written in a variety of subjects.
+        An assorted list of articles that I have written about a variety of subjects.
     </p>
       <ol>
         <li v-for="(pub, index) in assorted" :key="'pub-'+index" class="text-body1"><a :href="pub.url">{{pub.title}}</a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'pub-'+index+'-key-'+indexk" class="q-ma-xs" color="grey-6">{{tag}}</q-badge></li>
@@ -24,6 +24,11 @@ export default {
   data () {
     return {
       assorted: [
+        {
+          title: 'Tamil-Brahmi Script: An Introduction',
+          url: '/writings/assorted/tamil-brahmi',
+          tags: ['writing systems', 'tamil']
+        },
         {
           title: 'Male Homosexuality in the Kamasutra: A Close Reading',
           url: '/writings/assorted/homosexuality-kamasutra',

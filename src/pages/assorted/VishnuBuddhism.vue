@@ -3,6 +3,7 @@
     <q-breadcrumbs class="q-mb-md">
       <q-breadcrumbs-el label="Home" icon="home" to="/" />
       <q-breadcrumbs-el label="Writings" icon="create" to="/writings" />
+      <q-breadcrumbs-el label="Assorted" to="/writings/assorted" />
       <q-breadcrumbs-el label="Vishnu in  Buddhism" />
 
     </q-breadcrumbs>

@@ -62,7 +62,7 @@
 
 <p class="">The tantra text <i>Sarva-Tathagata-Tattva-Sangraha</i> also contains information about Shiva’s conversion as the future Bhasmeshvara Buddha but with a different narrative. We’ll deal that along with the other tantra references to Shiva later.</p>
 
-<p>Though the shaivaite doctrine is criticized at the beginning, ultimately at the end shiva is accepted into Mahayana Buddhism as a future completely enlightened Buddha.</p>
+<p>Though the shaivaite doctrine is criticized at the beginning, ultimately at the end, shiva is accepted into Mahayana Buddhism as a future completely enlightened Buddha.</p>
 <p>(See also <a href="/writings/assorted/vishnu-buddhism">Vishnu in Buddhism</a>)</p>
 </div>
 </q-page>

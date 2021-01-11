@@ -3,13 +3,14 @@
     <q-card bordered class="project-card">
       <q-card-section>
         <span v-if="icon !== ''">
+        <a :href="web" target="_blank">
         <q-img
           :src="require('../assets/' + icon)"
           class="project-icon q-mr-md"
           :width="width"
-        />
+        /> </a>
         </span>
-        <div class="text-h6">{{title}}</div>
+        <a :href="web" target="_blank"><div class="text-h6">{{title}}</div></a>
         <div class="text-subtitle2">{{subtitle}}</div>
       </q-card-section>
 
@@ -26,7 +27,7 @@
       <q-card-actions>
         <i>{{lang}} </i><q-separator vertical class="q-ml-sm q-mr-sm"/>
         <a :href="github"  target="_blank" v-if="github!==''"><q-img src="../assets/GitHub-Mark-64px.png" width="32px"/></a>
-        <a :href="web"><q-icon name="http" size="32px" class="q-ml-md remove-underline"/></a>
+        <a :href="web" target="_blank"><q-icon name="http" size="32px" class="q-ml-md remove-underline"/></a>
       </q-card-actions>
     </q-card>
   </div>
