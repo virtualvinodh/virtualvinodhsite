@@ -26,8 +26,8 @@
 
       <q-card-actions>
         <i>{{lang}} </i><q-separator vertical class="q-ml-sm q-mr-sm"/>
+        <a :href="web" target="_blank"><q-icon name="web" size="32px" class="q-mr-md remove-underline"/></a>
         <a :href="github"  target="_blank" v-if="github!==''"><q-img src="../assets/GitHub-Mark-64px.png" width="32px"/></a>
-        <a :href="web" target="_blank"><q-icon name="http" size="32px" class="q-ml-md remove-underline"/></a>
       </q-card-actions>
     </q-card>
   </div>

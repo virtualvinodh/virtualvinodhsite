@@ -6,15 +6,15 @@
       <a href="https://scholar.google.com/citations?user=nSdc3nIAAAAJ&hl=en" target="_blank" ><q-img src="../assets/googlescholar-logo.png" width="150px" class="q-ma-lg"/></a>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="school" class="q-mr-sm"/>Doctoral Thesis</p>
       <ul>
-        <li v-for="(pub, index) in thesis" :key="'thesis-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'thesis-'+index+'-key-'+indexk" class="q-ma-xs" color="grey-6">{{tag}}</q-badge></li>
+        <li v-for="(pub, index) in thesis" :key="'thesis-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'thesis-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ul>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="campaign" class="q-mr-sm"/>Talks ({{talks.length}})</p>
       <ol>
-      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs" color="grey-6">{{tag}}</q-badge></li>
+      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ol>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="article" class="q-mr-sm"/>Publications ({{publications.length}})</p>
       <ol>
-        <li v-for="(pub, index) in publications" :key="'pub-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'pub-'+index+'-key-'+indexk" class="q-ma-xs" color="grey-6">{{tag}}</q-badge></li>
+        <li v-for="(pub, index) in publications" :key="'pub-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'pub-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ol>
       <br/>
 
