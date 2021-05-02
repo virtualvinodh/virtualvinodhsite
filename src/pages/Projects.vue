@@ -148,8 +148,8 @@ export default {
           icon: 'arishtanemi-icon.png',
           title: 'Arishtanemi Tamil',
           lang: 'Fontlab/OpenType',
-          subtitle: 'A faux historical typeface ',
-          desc: 'The modern Tamil script is a result of stroke additions into the Brahmi characters over 2000 years. Arishtnemi tries to de-evolve the script into a simplified form that is still readable.',
+          subtitle: 'A faux historical font',
+          desc: 'The modern Tamil script is a result of additions to the source Brahmi characters over 2000 years. Arishtanemi tries to de-evolve the script into a simplified form that looks epigraphic-esque yet readable.',
           web: '/projects/arishtanemi',
           github: '',
           width: '75px'
