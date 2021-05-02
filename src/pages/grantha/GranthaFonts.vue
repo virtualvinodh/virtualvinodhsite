@@ -38,6 +38,9 @@
     <p class="text-h6">Paalai</p>
     <p><i>Not yet publicly available</i></p>
     <q-img src="../../assets/grantha/paalai-sample.png" width="400px" class="q-mb-md"/>
+    <p class="text-h6">OS X Big Sur</p>
+    <p>OS X also comes with Grantha support. The font Tamil Sangam MN also has support for Grantha. However, in the future version of OS X this might support could possibly be supported as Grantha Sangam MN.</p>
+    <q-img src="../../assets/grantha/grantha-osx.png" width="400px" class="q-mb-md"/>
     <p class="text-h6">Hack-encoded Unicode Fonts</p>
     <p>There are also Unicode fonts that borrow other code blocks to encode Grantha. </p>
     <p class="text-h6">e-Grantamil</p>
@@ -109,7 +112,7 @@ m° ¾hc¤c½sl¥c¹¢e® ¾hh©Ä¢hql® q£p¯ ë<br/>
 ©eqm¢l¢s s®j¥;sµ® p©À pec¢® pn¯ ì</p>
     <!--<q-img src="../../assets/grantha/sarmagrandam-sample.png" width="400px" class="q-mb-md"/> -->
     <p class="text-h6">(Microtype) Grantha</p>
-    <p><a href="/downloads/microtypegrantha.ttf">Download</a></p>
+    <p><a href="/downloads/microtypegrantha.TTF">Download</a></p>
 <p class="microtype q-mt-lg">D]fsJeOÒ D]glµeoÒ D]gs;ÅoÒ DMeM½lÒ<br/>
 Ds]keLÑÒ D]e]eLÑÒ D]eicÒ D]fiÑcÒ<br/>
 /d hÕlrlÔmcglµeo" hÕhs~ehMc" MfbÒ<br/>

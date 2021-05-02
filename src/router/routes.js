@@ -33,6 +33,14 @@ const routes = [
   },
 
   {
+    path: '/projects/arishtanemi',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [
+      { path: '', component: () => import('pages/projects/Arishtanemi.vue') }
+    ]
+  },
+
+  {
     path: '/projects/adinatha-tamil',
     component: () => import('layouts/MainLayout.vue'),
     children: [

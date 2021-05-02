@@ -73,6 +73,16 @@ export default {
           width: '50px'
         },
         {
+          icon: 'satisar-icon.png',
+          title: 'Satisar',
+          lang: 'Vue.js',
+          subtitle: 'A Portal for Sharada',
+          desc: 'It provides various functionalities such as conver ting Devanagari/Romanized text into Sharada, directly composing in Sharada and various learning resources to practice Sharada.',
+          github: 'https://github.com/virtualvinodh/satisarsite',
+          web: 'https://satisarsharada.appspot.com',
+          width: '50px'
+        },
+        {
           icon: 'anunaadam-icon.png',
           title: 'Anunaadam',
           lang: 'Vue.js/PHP',
@@ -123,6 +133,26 @@ export default {
           github: '',
           web: '/projects/aazhvaar',
           width: '60px'
+        },
+        {
+          icon: 'sharadafont-icon.png',
+          title: 'Satisar Sharada',
+          lang: 'Fontlab/OpenType',
+          subtitle: 'Sharada Font',
+          desc: 'Unicode font for the Sharada script belonging to the Kashmir region of India. Developed in collaboration with the Core Sharda Team Foundation. It is released under the Open Font Licence (OFL).',
+          web: 'https://satisarsharada.appspot.com/font-keyboard',
+          github: 'https://github.com/virtualvinodh/satisarsharada',
+          width: '45px'
+        },
+        {
+          icon: 'arishtanemi-icon.png',
+          title: 'Arishtanemi Tamil',
+          lang: 'Fontlab/OpenType',
+          subtitle: 'A faux historical typeface ',
+          desc: 'The modern Tamil script is a result of stroke additions into the Brahmi characters over 2000 years. Arishtnemi tries to de-evolve the script into a simplified form that is still readable.',
+          web: '/projects/arishtanemi',
+          github: '',
+          width: '75px'
         }
       ],
       ProjectsDP: [

@@ -28,6 +28,24 @@ export default {
     return {
       docList: [
         {
+          title: 'Proposal to Encode Lao Yamakkan',
+          id: 'L2/21-093',
+          script: 'Lao',
+          link: 'http://www.unicode.org/L2/L2021/21093-lao-yamakkan.pdf'
+        },
+        {
+          title: 'Proposal to postpone encoding of the new Tulu script from the Karnataka Tulu Sahitya Academy',
+          id: 'L2/21-092',
+          script: 'Revived Modern Tulu',
+          link: 'http://www.unicode.org/L2/L2021/21092-tulu-postpone.pdf'
+        },
+        {
+          title: 'Updated proposal to encode Tulu-Tigalari script in Unicode (replaces L2/17-378)',
+          id: 'L2/21-086',
+          script: 'Tulu-Tigalari',
+          link: 'http://www.unicode.org/L2/L2021/21086-tulu-tigalari.pdf'
+        },
+        {
           title: 'Representing an Underline Diacritic in Telugu',
           id: 'L2/20-120',
           script: 'Telugu',

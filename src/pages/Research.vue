@@ -36,6 +36,11 @@ export default {
       ],
       talks: [
         {
+          title: 'Transcribing Manipravala: The interplay of Time, Tradition and Technology. Scripts in Asia, c. 1500–2000. University of the Philippines. April 2021.',
+          url: 'https://www.ac.upd.edu.ph/index.php/resources/conferences/2489-scripts-asia-1500-2000-conference',
+          tags: ['writing system']
+        },
+        {
           title: 'Preserving Tamil Scripts: The way towards their Digitization, Archival and Outreach. Keynote Session. Tamil Internet Conference 2020. December 2020.',
           url: '/downloads/preserving_tamil_scripts.pdf',
           tags: ['font engineering', 'writing system']
