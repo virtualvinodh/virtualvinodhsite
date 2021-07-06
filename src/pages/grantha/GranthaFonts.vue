@@ -39,7 +39,7 @@
     <p><i>Not yet publicly available</i></p>
     <q-img src="../../assets/grantha/paalai-sample.png" width="400px" class="q-mb-md"/>
     <p class="text-h6">OS X Big Sur</p>
-    <p>OS X also comes with Grantha support. The font Tamil Sangam MN also has support for Grantha. However, in the future version of OS X this might support could possibly be supported as Grantha Sangam MN.</p>
+    <p>OS X also comes with Grantha support. The font Tamil Sangam MN currently also has support for Grantha. However, in the future version of OS X, it is possible that Grantha might get its own dedicated font as Grantha Sangam MN.</p>
     <q-img src="../../assets/grantha/grantha-osx.png" width="400px" class="q-mb-md"/>
     <p class="text-h6">Hack-encoded Unicode Fonts</p>
     <p>There are also Unicode fonts that borrow other code blocks to encode Grantha. </p>

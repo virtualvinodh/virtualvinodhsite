@@ -57,7 +57,7 @@ export default {
           title: 'Avalokitam',
           lang: 'Vue.js/PHP',
           subtitle: 'Tamil Prosody Analyzer',
-          desc: 'Analyzer a given Tamil language vrese for Input versefor six basic prosodic elements and displays them. It also recognizes the meter of the  verse by matching them with the elaborate rules of Tamil prosody.',
+          desc: 'Analyzes a given Tamil language verse for six basic prosodic elements and displays them. It also recognizes the meter of the verse by matching them with the elaborate rules of Tamil prosody.',
           github: 'https://github.com/virtualvinodh/avalokitam',
           web: 'http://www.avalokitam.com',
           width: '50px'
@@ -77,7 +77,7 @@ export default {
           title: 'Satisar',
           lang: 'Vue.js',
           subtitle: 'A Portal for Sharada',
-          desc: 'It provides various functionalities such as conver ting Devanagari/Romanized text into Sharada, directly composing in Sharada and various learning resources to practice Sharada.',
+          desc: 'It provides various functionalities such as converting Devanagari/Romanized text into Sharada, directly composing in Sharada and various learning resources to practice Sharada.',
           github: 'https://github.com/virtualvinodh/satisarsite',
           web: 'https://satisarsharada.appspot.com',
           width: '50px'

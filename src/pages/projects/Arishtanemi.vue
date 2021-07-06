@@ -3,11 +3,11 @@
     <q-breadcrumbs class="q-mb-md">
       <q-breadcrumbs-el label="Home" icon="home" to="/" />
       <q-breadcrumbs-el label="Projects" icon="create" to="/projects" />
-      <q-breadcrumbs-el label="Azhvaar: Srivaishnava Telugu font" />
+      <q-breadcrumbs-el label="Arishtanemi: A Faux Historical Tamil Font" />
 
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">
-    <p class="text-h5">Arishtanemi: An Faux Hisotrical Tamil Font</p>
+    <p class="text-h5">Arishtanemi: A Faux Historical Tamil Font</p>
     <p class="text-body2">
         The Modern Tamil script is a culmination of 2000 years of evolution, with every serif, every retrace and every other accidental stroke constantly augmented to the characters by several generation of scribes. This clearly explains how a simple Brahmi character such as <span class="brahmi char">𑀓</span> ended up evolving as <span class="tamil char">க</span>. The development of the Tamil script as outlined by Ojha in his book <i><a href="https://archive.org/details/the-paleography-of-india-bharatiya-prachin-lipimala-1919-rai-bahadur-pandit-gaur/page/n1/mode/2up">The Paleography of India</a></i> can be seen here.
     </p>
@@ -44,7 +44,7 @@
             <th>Arishtanemi</th>
         <tr>
         <tr v-for="(v, i) in consonantsT" :key="v">
-            <td class="brahmi char">{{consonantsB[i-1]}}</td>
+            <td class="tamilbrahmi char">{{consonantsB[i-1]}}</td>
             <td class="tamil char">{{consonantsT[i-1]}}</td>
             <td class="arishtanemi char">{{consonantsT[i-1]}}</td>
         </tr>
@@ -56,7 +56,7 @@
             <th>Arishtanemi</th>
         <tr>
         <tr v-for="(v, i) in taB" :key="v">
-            <td class="brahmi char">{{taB[i-1]}}</td>
+            <td class="tamilbrahmi char">{{taB[i-1]}}</td>
             <td class="tamil char">{{taT[i-1]}}</td>
             <td class="arishtanemi char">{{taT[i-1]}}</td>
         </tr>
@@ -68,7 +68,7 @@
             <th>Arishtanemi</th>
         <tr>
         <tr v-for="(v, i) in yaB" :key="v">
-            <td class="brahmi char">{{yaB[i-1]}}</td>
+            <td class="tamilbrahmi char">{{yaB[i-1]}}</td>
             <td class="tamil char">{{yaT[i-1]}}</td>
             <td class="arishtanemi char">{{yaT[i-1]}}</td>
         </tr>
@@ -78,7 +78,7 @@
     <table style="display:block;">
         <tr>
             <th>Brahmi</th>
-            <td v-for="v in vowelsB" :key="v">{{v}}</td>
+            <td v-for="v in vowelsB" :key="v" class="brahmi char">{{v}}</td>
         </tr>
         <tr>
             <th>Arishtanemi</th>
@@ -132,8 +132,9 @@
         </tr>
     </table>
     </span>
+<br/><br/>
 <p class="text-h5">Download</p>
-<p class="text-body2">You can download the font <i>Arishtanemi Tamil</i> from <a href="../../assets/Arishtanemi-Tamil.ttf">here</a>. The font is based on <i>Noto Sans Tamil</i>, and, therefore, is also under SIL OFL license.<br/><br/> As for the name, the previous font for <a href="/projects/adinatha">Tamil-Brahmi</a> was named after the first Jain Tirthankara <i>Adinatha</i>. I thought it would make sense to continue to the tradition and named it after the 22nd Trithankara <i>Neminatha</i>, who is also known as <i>Arishtanemi</i>. He is a popular Tirthankara among the Tamil Jains. The 12th century Tamil grammatical work <i>Neminatham</i> <span class="arishtanemi"> நேமிநாதம்</span> is named after him. There is a also famous <a href="https://www.google.com/search?sxsrf=ALeKk011X4txQRn-RR6KVNgfoj-ILOjyFA:1619976214896&q=Neminatha%20temple%20tamil%20nadu&sa=X&ved=2ahUKEwjZ5dTWwavwAhXygf0HHcDQDXEQvS4wAHoECAgQNg&biw=1920&bih=970&dpr=2&tbs=lf:1,lf_ui:1&tbm=lcl&rflfq=1&num=10&rldimm=11584911286110161733&lqi=ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA&phdesc=kdndXJkY2vc&rlst=f#rlfi=hd:;si:11584911286110161733,l,ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA,y,kdndXJkY2vc;mv:[[13.4480162,80.55182250000001],[7.889791400000001,75.8341256]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u16!2m2!16m1!1e1!1m4!1u16!2m2!16m1!1e2!2m1!1e2!2m1!1e16!2m1!1e3!3sIAE,lf:1,lf_ui:1">Jain Temple</a> dedicated to him in Tamil Nadu with a <a href="https://en.wikipedia.org/wiki/Tirumalai_(Tamil_Nadu)#/media/File:Tirumalai_Neminatha_Statue.jpg">~5m tall statue</a>.</p>
+<p class="text-body2">You can download the font <i>Arishtanemi Tamil</i> from <a href="/downloads/Arishtanemi-Tamil.ttf">here</a>. The font is based on <i>Noto Sans Tamil</i>, and, therefore, is also under SIL OFL license.<br/><br/> As for the name, the previous font for <a href="/projects/adinatha">Tamil-Brahmi</a> was named after the first Jain Tirthankara <i>Adinatha</i>. I thought it would make sense to continue to the tradition and named it after the 22nd Trithankara <i>Neminatha</i>, who is also known as <i>Arishtanemi</i>. He is a popular Tirthankara among the Tamil Jains. The 12th century Tamil grammatical work <i>Neminatham</i> <span class="arishtanemi"> நேமிநாதம்</span> is named after him. There is a also famous <a href="https://www.google.com/search?sxsrf=ALeKk011X4txQRn-RR6KVNgfoj-ILOjyFA:1619976214896&q=Neminatha%20temple%20tamil%20nadu&sa=X&ved=2ahUKEwjZ5dTWwavwAhXygf0HHcDQDXEQvS4wAHoECAgQNg&biw=1920&bih=970&dpr=2&tbs=lf:1,lf_ui:1&tbm=lcl&rflfq=1&num=10&rldimm=11584911286110161733&lqi=ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA&phdesc=kdndXJkY2vc&rlst=f#rlfi=hd:;si:11584911286110161733,l,ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA,y,kdndXJkY2vc;mv:[[13.4480162,80.55182250000001],[7.889791400000001,75.8341256]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u16!2m2!16m1!1e1!1m4!1u16!2m2!16m1!1e2!2m1!1e2!2m1!1e16!2m1!1e3!3sIAE,lf:1,lf_ui:1">Jain Temple</a> dedicated to him in Tamil Nadu with a <a href="https://en.wikipedia.org/wiki/Tirumalai_(Tamil_Nadu)#/media/File:Tirumalai_Neminatha_Statue.jpg">~5m tall statue</a>.</p>
 <p class="text-h5">Sample Text</p>
 <p class="text-body2 tamil">
 பூவின்மேல் வந்தருளும் புங்கவன்தன் பொற்பாதம் <br/>
