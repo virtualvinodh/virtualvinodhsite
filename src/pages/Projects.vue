@@ -120,7 +120,7 @@ export default {
           lang: 'FontCreator/OpenType',
           subtitle: 'Extended Tamil Font',
           desc: 'Unicode font for extended Tamil script. This extended Tamil script adopts Grantha consonants to denote aspirated and voiced consonants to transcribe non-Tamil languages like English & Sanskrit.',
-          github: '',
+          github: 'https://github.com/virtualvinodh/agastya-tamil-extended',
           web: '/projects/agastya',
           width: '50px'
         },
@@ -130,7 +130,7 @@ export default {
           lang: 'FontCreator/OpenType',
           subtitle: 'Srivaishnava Telugu Font',
           desc: 'Unicode font for the variant of the Telugu script used by the Shrivaishnavas to write religous Tamil texts. The font uses Tamil-style glyphs to represent the Tamil phonemes /ḻ/ & / ṟ/.',
-          github: '',
+          github: 'https://github.com/virtualvinodh/aazhvaar-telugu',
           web: '/projects/aazhvaar',
           width: '60px'
         },
@@ -151,7 +151,7 @@ export default {
           subtitle: 'A faux historical font',
           desc: 'The modern Tamil script is a result of additions to the source Brahmi characters over 2000 years. Arishtanemi tries to de-evolve the script into a simplified form that looks epigraphic-esque yet readable.',
           web: '/projects/arishtanemi',
-          github: '',
+          github: 'https://github.com/virtualvinodh/arishtanemi-tamil',
           width: '75px'
         }
       ],

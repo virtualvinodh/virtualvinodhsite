@@ -24,15 +24,15 @@
     <p class="text-h6"> Encoding </p>
     <p class=""> L2/20-119 was initially accepted by the UTC and the acceptance was later rescinded for various reasons. Therefore, the forms had to be hack-encoded into existing code-points LLLA and TSA. Without the Aazhvaar Telugu font, the Tamil-style characters will appear as ఴ & ౘ.</p>
     <p class="text-h6"> Download </p>
-<p>You can download the font from <a href="downloads/AazhvaarTelugu.otf">here</a>.</p>
+<p>You can download the font from <a href="https://github.com/virtualvinodh/aazhvaar-telugu/blob/main/AazhvaarTelugu.otf?raw=true">here</a>.</p>
 
 <p> You can also find below the complete package that would install the fonts and the corresponding Keyman keyboard layouts to compose in Extended Tamil.</p>
 
-<p><a href="downloads/aazhvaar_telugu.kmp">Only Keyboard Package</a> (if you have Keyman already installed)</p>
+<p><a href="https://github.com/virtualvinodh/aazhvaar-telugu/blob/main/aazhvaar_telugu.kmp?raw=true">Only Keyboard Package</a> (if you have Keyman already installed)</p>
 
 <p>Instructions to install and use the Keyman Keyboard from the above are <a href="projects/aazhvaar/instructions">here</a>.</p>
 
-<p><a href="downloads/-aazhvaar_telugu.exe">Integrated Keyboard Package</a> (if you don't have keyman)</p>
+<p><a href="https://github.com/virtualvinodh/aazhvaar-telugu/blob/main/-aazhvaar_telugu.exe?raw=true">Integrated Keyboard Package</a> (if you don't have keyman)</p>
 
 <p>Alternatively, you can also use <a href="http://aksharamukha.appspot.com">Aksharamukha</a> with Telugu as the target script. You just need to select the additional options to use the Tamil-style letters.</p>
 

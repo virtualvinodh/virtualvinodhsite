@@ -124,37 +124,37 @@ export default {
 
 @font-face {
   font-family: 'Aazhvaar Telugu';
-  src: url('../assets/AazhvaarTelugu.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aazhvaar-telugu/AazhvaarTelugu.otf')
 }
 
 @font-face {
   font-family: 'Agastya Extended Tamil';
-  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/AgastyaExtendedTamil.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/agastya_sans.otf')
 }
 
 @font-face {
   font-family: 'Agastya Serif';
-  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/AgastyaSerif.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/agastya_serif.otf')
 }
 
 @font-face {
   font-family: 'Agastya Sans';
-  src: url('../assets/agastya_sans.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/agastya_sans.otf')
 }
 
 @font-face {
   font-family: 'Lopamudra Sans';
-  src: url('../assets/lopamudra_sans.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/lopamudra_sans.otf')
 }
 
 @font-face {
   font-family: 'Lopamudra Serif';
-  src: url('../assets/lopamudra_serif.otf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/lopamudra_serif.otf')
 }
 
 @font-face {
-  font-family: 'Agastya Serif';
-  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/AgastyaSerif.otf')
+  font-family: 'Lao Codechart';
+  src: url('../assets/lao_code_chart_yamakkan.otf')
 }
 
 .telugu2 {
@@ -193,6 +193,10 @@ export default {
 }
 .lopamudraserif {
   font-family: "Lopamudra Serif" !important;
+  line-height: 1.6em;
+}
+.laoproposal {
+  font-family: "Lao Codechart" !important;
   line-height: 1.6em;
 }
 .title-letter {

@@ -28,6 +28,24 @@ export default {
     return {
       docList: [
         {
+          title: 'Replies to Tulu-Tigalari Issues',
+          id: 'L2/21-147',
+          script: 'Tulu-Tigalari',
+          link: 'http://www.unicode.org/L2/L2021/21147-tulu-tigalari-replies.pdf'
+        },
+        {
+          title: 'Updated proposal to encode Tulu-Tigalari script (replaces L2/17-378)',
+          id: 'L2/21-146',
+          script: 'Tulu-Tigalari',
+          link: 'http://www.unicode.org/L2/L2021/21146-tulu-tigalari.pdf'
+        },
+        {
+          title: 'Response to Comments on Lao Yamakkan',
+          id: 'L2/21-143',
+          script: 'Lao',
+          link: 'http://www.unicode.org/L2/L2021/21143-lao-yamakkan-resp.pdf'
+        },
+        {
           title: 'Proposal to Encode Lao Yamakkan',
           id: 'L2/21-093',
           script: 'Lao',
@@ -102,7 +120,7 @@ export default {
         {
           title: 'Preliminary proposal to encode Tigalari script',
           id: 'L2/17-378',
-          script: 'Tulu',
+          script: 'Tulu-Tigalari',
           link: 'https://www.unicode.org/L2/L2017/17378-tigalari.pdf'
         },
         {
@@ -392,6 +410,13 @@ export default {
           script: 'lao',
           docid: 'L2/17-106R',
           doclink: 'http://www.unicode.org/L2/L2017/17106r-lao-for-pali.pdf'
+        },
+        {
+          name: 'Lao Yamakkan Sign',
+          char: '◌\u0ECE',
+          script: 'laoproposal',
+          docid: 'L2/21-093',
+          doclink: 'http://www.unicode.org/L2/L2021/21093-lao-yamakkan.pdf'
         }
       ]
     }

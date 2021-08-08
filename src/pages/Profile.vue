@@ -13,7 +13,7 @@
     <q-timeline color="secondary" layout="comfortable">
 
       <q-timeline-entry
-        title="Product Manager OEM"
+        title="Consultant"
         subtitle="October, 2020 - Current"
         icon="work"
       >

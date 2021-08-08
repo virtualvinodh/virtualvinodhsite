@@ -12,10 +12,9 @@
 Agastya is a Unicode fontset for the Extended Tamil script, an experimental attempt to use the full complimentary set of Grantha letters to fill in the gaps in the Tamil script (as compared to the pan-Indic system). </p>
 
 <p class="text-h6">Extended Tamil Script</p>
-<p>Modern Tamil only adopts /ja/, /śa/, /ṣa/, /sa/, /ha/ and the compound /śrī/ from the Grantha script into its character reportoire. The missing aspirated/voiced Indic cognates are usually represented using superscript/subscript numerals e.g. <span class="tamil">பு³த்³த⁴போ³தி⁴ஸத்த்வேப்⁴ய꞉</span> /buddhabodhisattvebhyaḥ/. While this is easy to typeset and provides accurate transcription, the result is not visually pleasing (the text often resembling mathematical formulae) and also hard to read. The other drawback is that many readers tend to simply ignore the diacritics and read the text as it were normal Tamil. <br/> Extended Tamil attempts to fix this by importing Grantha characters and using them as if they were Tamil characters. Apart from improving the visual aesthetics of the text and its readability, the imported consonants create a one-to-one visual binding with the phonemes that the reader cannot easily disregard.</p>
+<p>Modern Tamil only adopts /ja/, /śa/, /ṣa/, /sa/, /ha/ and the compound /śrī/ from the Grantha script into its character reportoire. The missing aspirated/voiced Indic cognates are usually represented using superscript/subscript numerals e.g. <span class="tamil">பு³த்³த⁴போ³தி⁴ஸத்த்வேப்⁴ய꞉</span> /buddhabodhisattvebhyaḥ/. While this is easy to typeset and provides accurate transcription, the result is not visually pleasing (the text often resembling mathematical formulae) and also hard to read. The other drawback is that many readers tend to simply ignore the diacritics and read the text as it were normal Tamil. <br/> <br/>Extended Tamil attempts to fix this by importing Grantha characters and using them as if they were Tamil characters. Apart from improving the visual aesthetics of the text and its readability, the imported consonants create a one-to-one visual binding with the phonemes that the reader cannot easily disregard.</p>
 <p> This method was sporadically experimented from the late 1800's up until the middle part of the 20th century. One such <a href="https://archive.org/stream/bhojacharitrama00sastgoog#page/n534/mode/2up">publication</a> from 1905 is shown below: </p>
     <q-img src="../../assets/bhojacharitra-sample.png" width="300px" class="q-ma-sm"/>
-<p> In modern days, it is mostly likely to be typeset as: </p>
 <p>
 போஜ: - (அஞ்ஜலி செய்துகொண்டு)<br/>
 போ⁴ தே³ஹி-போ⁴க்³யதமம்<br/>
@@ -24,8 +23,9 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
 பு³த⁴விநுத-ஸுக்ருʼத !</p>
 <p>Another publication from 1886 is shown below:</p>
     <q-img src="../../assets/manipravala-sample-imp.png" width="500px" class="q-ma-sm"/>
+<p>A <a href="https://groups.google.com/d/msg/mintamil/tDwV_UwYJKc/AVCkX2KQFV4J">commentary</a> on the Tamil Jaina Epic Nilakesi published in 1936 also uses this technique intermittently to disambiguate Sanskrit words that will otherwise be ambigous in the Tamil script, along with the proper Grantha script for Sanskrit quotations. There also been other recent publications that employed this method to print Sanskrit.</p>
 <p class="text-h6">Agastya</p>
-<p> Agastya fontset allows users to typeset such extended Tamil text seamlessly and compose text in it. Due to the current limitations of Unicode rendering engines that do not allow mixing base characters from two different blocks (Grantha and Tamil), the font has been implemented in the Malayalam codeblock. Therefore, text composed will appear as Malayalam characters if a suitable font is not present. The glyphs of the font have been directly borrowed from Google's Noto fonts project under the terms of the Open Font License (OFL). The font project is also consequently released under OFL.</p>
+<p> Agastya fontset allows users to typeset such extended Tamil text seamlessly and compose text in it. Due to the current limitations of Unicode rendering engines that do not allow mixing base characters from two different blocks (Grantha and Tamil), the font has been implemented in the Malayalam codeblock. Therefore, text composed will appear as Malayalam characters if a suitable font is not present.</p>
 <p> The text in the sample above can now be typeset using the font set as: </p>
 <i>Agastya Sans:</i>
 <p class="tamilextended">
@@ -45,7 +45,7 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
 <p> Additionally, the fonts can further be used to typeset Vedic texts. </p>
 <p class="tamilextended">ആ॒ദി॒ത്‌യവ॑ര്‌ണേ॒ തപ॒സോഽധി॑ജാ॒തോ വന॒സ്‌പതി॒സ്‌തവ॑ വൃ॒ക്ഷോഽഥ ബി॒ല്‌വഃ । </p>
 <p class="tamilextendedserif">തസ്‌യ॒ ഫലാ᳚നി॒ തപ॒സാ നു॑ദന്‌തു മാ॒യാന്‌ത॑രാ॒യാശ്‌ച॑ ബാ॒ഹ്‌യാ അ॑ല॒ക്ഷ്‌മീഃ ॥</p>
-<p> You can additionally see the codeblock support for both <a href="downloads/AgastyaSans.pdf" target="_blank">Sans</a> and <a href="downloads/AgastyaSerif.pdf" target="_blank">Serif</a>. </p>
+<p> You can additionally see the codeblock support for both <a href="https://github.com/virtualvinodh/agastya-tamil-extended/blob/main/AgastyaSansCodeCoverage.pdf" target="_blank">Sans</a> and <a href="https://github.com/virtualvinodh/agastya-tamil-extended/blob/main/AgastyaSerifCodeCoverage.pdf" target="_blank">Serif</a>. </p>
 
 <p class="text-h6"> Lopamudra </p>
 <p>Sanskrit and Tamil have different orthographies. Tamil is a phonemic script while Sanskrit is phonetic, as the Tamil unvoiced plosives have several allophones based on their context. Due to this, people often  apply Tamil reading rules to Sanskrit text and read it as it were Tamil. For instance, one might be tempted to read <span class="tamilextended">ചതുര്‌മകുടദീപാനി</span> as /sadurmakuḍadībāni/ using Tamil reading rules as opposed to /caturmakuṭadīpāni/ using Sanskrit rules. Therefore, there might be a necessity to mark these consonants explicitly in some Sanskrit texts as a reminder to not alter them based on Tamil phonemic principles. We have attemped to do this by slightly modifying the plosives to explicitly mark them as Sanskrit consonants, as in <span class="lopamudrasans">ചതുര്‌മകുടദീപാനി</span></p>
@@ -58,21 +58,17 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
 
 <p class="text-h6"> Sample Text </p>
 
-<p><a href="/downloads/Sample_Agastya_Sans.pdf" target="_blank"> Agastya Sans </a></p>
-<p><a href="/downloads/Sample_Agastya_Serif.pdf" target="_blank"> Agastya Serif </a></p>
-<p><a href="/downloads/Sample_Lopamudra_Sans.pdf" target="_blank"> Lopamudra Sans </a></p>
-<p><a href="/downloads/Sample_Lopamudra_Serif.pdf" target="_blank"> Lopamudra Serif </a></p>
-<p><a href="/downloads/Sample_Agastya_Sans_Stylistic_Set_1.pdf" target="_blank"> Agastya Sans (Stylistic Set 1)</a></p>
-<p><a href="/downloads/Sample_Lopamudra_Serif_Stylistic_Set_2.pdf" target="_blank"> Lopamudra Serif (Stylistic Set 2)</a></p>
+<p>You can find various texts rendered both in Agastya and Lopamudra <a href="https://virtualvinodh.github.io/agastya-tamil-extended/test_page.html">here</a></p>
 
 <p class="text-h6"> Download </p>
-<p>You can download the zip file containing both Agastya and Lopamudra from <a href="downloads/AgastyaLopamudra.zip">here</a>.</p>
+<p> The project is available in <a href="https://github.com/virtualvinodh/agastya-tamil-extended">Github</a>. The glyphs of the fonts have been directly borrowed (and slightly modified) from Google's Noto fonts project under the terms of the Open Font License (OFL). The font project is also consequently released under OFL.</p>
+<p>You can download the zip file containing both Agastya and Lopamudra from <a href="https://github.com/virtualvinodh/agastya-tamil-extended/blob/main/agastya_lopamudra.zip?raw=true">here</a>.</p>
 
 <p> You can also find below the complete package that would install the fonts and the corresponding phonetic Keyman keyboard layout to compose in Extended Tamil.</p>
 
-<p><a href="downloads/-tamil_extended_phonetic.exe">Integrated Keyboard Package</a> (if you don't have keyman)</p>
+<p><a href="https://github.com/virtualvinodh/agastya-tamil-extended/blob/main/TamilExtendedKeyboard/build/-tamil_extended_phonetic.exe?raw=true">Integrated Keyboard Package</a> (if you don't have keyman)</p>
 <p>Instructions to install and use the Keyman Keyboard from the above are <a href="projects/agastya/instructions">here</a>.</p>
-<p><a href="downloads/tamil_extended_phonetic.kmp">Only Keyboard Package</a> (if you have Keyman already installed)</p>
+<p><a href="https://github.com/virtualvinodh/agastya-tamil-extended/blob/main/TamilExtendedKeyboard/build/tamil_extended_phonetic.kmp?raw=true">Only Keyboard Package</a> (if you have Keyman already installed)</p>
 
 <p> Please make sure the font is set to either Agastya or Lopamudra before composing/reading any text in Extended Tamil. Else, the text will appear are broken Malayalam.</p>
     <p class="text-h6">Character Mapping</p>
@@ -80,6 +76,9 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
         <span v-for="(row,ind) in vowIAST" :key="'iastc'+ind">
         <tr>
         <td v-for="(char, ind2) in vowIAST[ind]" :key="'iastc'+ind+ind2">{{char}}</td>
+        </tr>
+        <tr>
+        <td v-for="(char, ind2) in vowDev[ind]" :key="'devc'+ind+ind2">{{char}}</td>
         </tr>
         <tr>
         <td v-for="(char, ind2) in vowTam[ind]" :key="'iast2c'+ind+ind2" class="tamil">{{char}}</td>
@@ -96,6 +95,9 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
         <td v-for="(char, ind2) in alphabetIAST[ind]" :key="'iastc'+ind+ind2">{{char}}</td>
         </tr>
         <tr>
+        <td v-for="(char, ind2) in alphabetDev[ind]" :key="'devc'+ind+ind2">{{char}}</td>
+        </tr>
+        <tr>
         <td v-for="(char, ind2) in alphabetTamil[ind]" :key="'iast2c'+ind+ind2" class="tamil">{{char}}</td>
         </tr>
         <tr>
@@ -110,6 +112,9 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
         <td v-for="(char, ind2) in convow1IAST[ind]" :key="'iastc'+ind+ind2">{{char}}</td>
         </tr>
         <tr>
+        <td v-for="(char, ind2) in convow1Dev[ind]" :key="'iastc22'+ind+ind2">{{char}}</td>
+        </tr>
+        <tr>
         <td v-for="(char, ind2) in convow1Tam[ind]" :key="'iast2c'+ind+ind2" class="tamil">{{char}}</td>
         </tr>
         <tr>
@@ -122,6 +127,9 @@ Agastya is a Unicode fontset for the Extended Tamil script, an experimental atte
         <span v-for="(row,ind) in convow2IAST" :key="'iast5c'+ind">
         <tr>
         <td v-for="(char, ind2) in convow2IAST[ind]" :key="'iast5c'+ind+ind2">{{char}}</td>
+        </tr>
+        <tr>
+        <td v-for="(char, ind2) in convow2Dev[ind]" :key="'iast5c2'+ind+ind2">{{char}}</td>
         </tr>
         <tr>
         <td v-for="(char, ind2) in convow2Tam[ind]" :key="'iast25c'+ind+ind2" class="tamil">{{char}}</td>
@@ -294,6 +302,16 @@ export default {
         ['ഴ', 'ള', 'റ', 'ഩ'],
         ['ക്ഷ', 'ശ്‍ര', 'ഽ']
       ],
+      alphabetDev: [['क', 'ख', 'ग', 'घ', 'ङ'],
+        ['च', 'छ', 'ज', 'झ', 'ञ'],
+        ['ट', 'ठ', 'ड', 'ढ', 'ण'],
+        ['त', 'थ', 'द', 'ध', 'न'],
+        ['प', 'फ', 'ब', 'भ', 'म'],
+        ['य', 'र', 'ल', 'व'],
+        ['श', 'ष', 'स', 'ह'],
+        ['ऴ', 'ळ', 'ऱ', 'ऩ'],
+        ['क्ष', 'श्र', 'ऽ']
+      ],
       vowIAST: [
         ['a', 'ā', 'i', 'ī', 'u', 'ū'],
         ['ṛ', 'ṝ', 'ḷ', 'ḹ'],
@@ -312,11 +330,23 @@ export default {
         ['എ', 'ഏ', 'ഐ', 'ഒ', 'ഓ', 'ഔ'],
         ['അം', 'അഃ', 'അഁ']
       ],
+      vowDev: [
+        ['अ', 'आ', 'इ', 'ई', 'उ', 'ऊ'],
+        ['ऋ', 'ॠ', 'ऌ', 'ॡ'],
+        ['ऎ', 'ए', 'ऐ', 'ऒ', 'ओ', 'औ'],
+        ['अं', 'अः', 'अँ']
+      ],
       convow1IAST: [
         ['ka', 'kā', 'ki', 'kī', 'ku', 'kū'],
         ['kṛ', 'kṝ', 'kḷ', 'kḹ'],
         ['kĕ', 'ke', 'kai', 'ko', 'kŏ', 'kau'],
         ['kaṃ', 'kaḥ', 'kam̐']
+      ],
+      convow1Dev: [
+        ['क', 'का', 'कि', 'की', 'कु', 'कू'],
+        ['कृ', 'कॄ', 'कॢ', 'कॣ'],
+        ['कॆ', 'के', 'कै', 'को', 'कॊ', 'कौ'],
+        ['कं', 'कः', 'कँ']
       ],
       convow1Tam: [
         ['க', 'கா', 'கி', 'கீ', 'கு', 'கூ'],
@@ -335,6 +365,12 @@ export default {
         ['gṛ', 'gṝ', 'gḷ', 'gḹ'],
         ['gĕ', 'ge', 'gai', 'gŏ', 'go', 'gau'],
         ['gaṃ', 'gaḥ', 'gam̐']
+      ],
+      convow2Dev: [
+        ['ग्', 'गा', 'गि', 'गी', 'गु', 'गू'],
+        ['गृ', 'गॄ', 'ग्ळ्', 'ग्ḹ'],
+        ['गॆ', 'गे', 'गै', 'गॊ', 'गो', 'गौ'],
+        ['गं', 'गः', 'गँ']
       ],
       convow2Tam: [
         ['க்³', 'கா³', 'கி³', 'கீ³', 'கு³', 'கூ³'],

@@ -134,7 +134,7 @@
     </span>
 <br/><br/>
 <p class="text-h5">Download</p>
-<p class="text-body2">You can download the font <i>Arishtanemi Tamil</i> from <a href="/downloads/Arishtanemi-Tamil.ttf">here</a>. The font is based on <i>Noto Sans Tamil</i>, and, therefore, is also under SIL OFL license.<br/><br/> As for the name, the previous font for <a href="/projects/adinatha">Tamil-Brahmi</a> was named after the first Jain Tirthankara <i>Adinatha</i>. I thought it would make sense to continue to the tradition and named it after the 22nd Trithankara <i>Neminatha</i>, who is also known as <i>Arishtanemi</i>. He is a popular Tirthankara among the Tamil Jains. The 12th century Tamil grammatical work <i>Neminatham</i> <span class="arishtanemi"> நேமிநாதம்</span> is named after him. There is a also famous <a href="https://www.google.com/search?sxsrf=ALeKk011X4txQRn-RR6KVNgfoj-ILOjyFA:1619976214896&q=Neminatha%20temple%20tamil%20nadu&sa=X&ved=2ahUKEwjZ5dTWwavwAhXygf0HHcDQDXEQvS4wAHoECAgQNg&biw=1920&bih=970&dpr=2&tbs=lf:1,lf_ui:1&tbm=lcl&rflfq=1&num=10&rldimm=11584911286110161733&lqi=ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA&phdesc=kdndXJkY2vc&rlst=f#rlfi=hd:;si:11584911286110161733,l,ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA,y,kdndXJkY2vc;mv:[[13.4480162,80.55182250000001],[7.889791400000001,75.8341256]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u16!2m2!16m1!1e1!1m4!1u16!2m2!16m1!1e2!2m1!1e2!2m1!1e16!2m1!1e3!3sIAE,lf:1,lf_ui:1">Jain Temple</a> dedicated to him in Tamil Nadu with a <a href="https://en.wikipedia.org/wiki/Tirumalai_(Tamil_Nadu)#/media/File:Tirumalai_Neminatha_Statue.jpg">~5m tall statue</a>.</p>
+<p class="text-body2">You can download the font <i>Arishtanemi Tamil</i> from <a href="https://github.com/virtualvinodh/arishtanemi-tamil/blob/main/Arishtanemi-Tamil.ttf?raw=true">here</a>. The font is based on <i>Noto Sans Tamil</i>, and, therefore, is also under SIL OFL license.<br/><br/> As for the name, the previous font for <a href="/projects/adinatha">Tamil-Brahmi</a> was named after the first Jain Tirthankara <i>Adinatha</i>. I thought it would make sense to continue to the tradition and named it after the 22nd Trithankara <i>Neminatha</i>, who is also known as <i>Arishtanemi</i>. He is a popular Tirthankara among the Tamil Jains. The 12th century Tamil grammatical work <i>Neminatham</i> <span class="arishtanemi"> நேமிநாதம்</span> is named after him. There is a also famous <a href="https://www.google.com/search?sxsrf=ALeKk011X4txQRn-RR6KVNgfoj-ILOjyFA:1619976214896&q=Neminatha%20temple%20tamil%20nadu&sa=X&ved=2ahUKEwjZ5dTWwavwAhXygf0HHcDQDXEQvS4wAHoECAgQNg&biw=1920&bih=970&dpr=2&tbs=lf:1,lf_ui:1&tbm=lcl&rflfq=1&num=10&rldimm=11584911286110161733&lqi=ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA&phdesc=kdndXJkY2vc&rlst=f#rlfi=hd:;si:11584911286110161733,l,ChtOZW1pbmF0aGEgdGVtcGxlIHRhbWlsIG5hZHVIoJSqtuyqgIAIWjsKEG5lbWluYXRoYSB0ZW1wbGUQABABGAAYARgCGAMiG25lbWluYXRoYSB0ZW1wbGUgdGFtaWwgbmFkdZIBC2phaW5fdGVtcGxlmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU52WHpsZllqbEJSUkFCqgEYEAEqFCIQbmVtaW5hdGhhIHRlbXBsZSgA,y,kdndXJkY2vc;mv:[[13.4480162,80.55182250000001],[7.889791400000001,75.8341256]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u16!2m2!16m1!1e1!1m4!1u16!2m2!16m1!1e2!2m1!1e2!2m1!1e16!2m1!1e3!3sIAE,lf:1,lf_ui:1">Jain Temple</a> dedicated to him in Tamil Nadu with a <a href="https://en.wikipedia.org/wiki/Tirumalai_(Tamil_Nadu)#/media/File:Tirumalai_Neminatha_Statue.jpg">~5m tall statue</a>.</p>
 <p class="text-h5">Sample Text</p>
 <p class="text-body2 tamil">
 பூவின்மேல் வந்தருளும் புங்கவன்தன் பொற்பாதம் <br/>
@@ -165,38 +165,39 @@
 விரித்துரைத்த நூல்களினும் வேண்டுவன கொண்டு<br/>
 தெரித்துரைப்பன் சொல்லின் திறம்</p>
 <hr/>
-<p class="text-body2 arishtanemi">
+<p class="text-body2 arishtanemi" style="font-size:125%;line-height:1.5em">
 பண்டைய தமிழகத்தில் களப்பிரர் ஆட்சியில் பூச்சியபாதர் என்பவரின் மாணவரான வச்சிரநந்தி என்பவர் திராவிட சங்கம் எனும் ஜைனர்களின் சங்கத்தை மதுரையில் நிறுவினார். இதனை, தர்சனசாரம் என்னும் நூலில் தேவசேனர் குறிப்பிடுகிறார். இச்சங்கத்தின் நோக்கம், ஜைன நெறியைப் பரப்புவதும், ஜைன நெறிக் கொள்கைகளை விளக்கக் கூடிய நூல்களைத் தோற்றுவிப்பதுமாக இருந்தது. இதனை, நான்காம் தமிழ்ச் சங்கம் என்று கூறுவர். ஆனால், இந்தச் சங்கம் பாண்டியர் நிறுவித் தமிழை ஆராய்ந்த தமிழ்ச் சங்கம் போன்றது அல்ல என்று மயிலை திரு.சீனி. வேங்கடசாமி அவர்கள் தான் இயற்றிய சமணமும் தமிழும் எனும் நூலில் கூறுகிறார். ஜைனர்கள் இயற்றிய தமிழ் இலக்கியங்கள். ஜைன நெறியை பரப்பும் நோக்குடன் பண்டைய தமிழகம் வந்த ஜைன நெறியினர், காப்பியங்கள் மற்றும் புராணங்கள் இயற்றாமல் காலப்போக்கில் அழிந்த நெறிகளைப் போல இல்லாமல், பௌத்த மற்றும் வைதீக நெறிகளுடன் போட்டியிட்டுக் கொண்டு காப்பியங்கள் மற்றும் புராணங்கள் மூலம் தங்கள் நெறியைப் பரப்பினர். <br/><br/>
 இன்னா செய்யாமை, அருளுடைமை, கொல்லாமை, புலால் மறுத்தல் என்ற நான்கு கொள்கைகளையும் சேர்த்து அகிம்சை என்கின்றனர். ”அஹிம்சோ பரமொ தர்ம” என்பது மகாவீரரின் பொன்மொழியாகும். கொல்லாமையே மேலான அறம் என்பது இதன் பொருள். எந்த உயிருக்கும் எந்த வகையிலும் இம்சை செய்யாமையே அகிம்சை எனப்படும். ஜைன சமயத்தின் பன்னிரண்டு அங்க ஆகமங்களில் முதல் ஆகமம் ஆகிய ஆயாரங்க சுத்தத்தில் அகிம்சை எனப்படும் அறத்தினை மகாவீரர் போதித்துள்ளார். அதன் ஒரு பகுதியில் “ மனிதர்களே “, எந்த ஒரு உயிரையும் துன்புறுத்தவோ, வதைக்கவோ, கொல்லவோ கூடாது. பிறறை அவமதிப்பது கூட இம்சையாகும். ஆகவே அகிம்சை என்பது உயிர்க்கொலை புரியாமை மட்டும் அன்று; ம்ன்னுயிர்க்கும் இன்னா செய்யாமையும், பிறறை அவமதிக்காமையும் அகிம்சை ஆகும். மனிதர்களே, நீங்கள் எடுத்துவரும் பல்வேறு பிறவிகளில், உங்களால் இம்சிக்கப்பெறும் உயிராகவும் நீங்களே பிறப்பெடுத்து இருப்பீர்கள்; ஆகவே, எல்லா உயிர்களையும் உங்கள் உயிர் போல மதித்து நடப்பதே அகிம்சையாகும், என்று மகாவீரர் அறிவுறுத்தியுள்ளார்.
 </p>
 <p class="text-h5">Tamil Syllabary</p>
-<p class="text-body2 arishtanemi char">
-அ ஆ இ ஈ உ ஊ எ ஏ ஐ ஒ ஓ ஔ
-க் க கா கி கீ கு கூ கெ கே கை கொ கோ கௌ
-ங் ங ஙா ஙி ஙீ ஙு ஙூ ஙெ ஙே ஙை ஙொ ஙோ ஙௌ
-ச் ச சா சி சீ சு சூ செ சே சை சொ சோ சௌ
-ஞ் ஞ ஞா ஞி ஞீ ஞு ஞூ ஞெ ஞே ஞை ஞொ ஞோ ஞௌ
-ட் ட டா டி டீ டு டூ டெ டே டை டொ டோ டௌ
-ண் ண ணா ணி ணீ ணு ணூ ணெ ணே ணை ணொ ணோ ணௌ
-த் த தா தி தீ து தூ தெ தே தை தொ தோ தௌ
-ந் ந நா நி நீ நு நூ நெ நே நை நொ நோ நௌ
-ப் ப பா பி பீ பு பூ பெ பே பை பொ போ பௌ
-ம் ம மா மி மீ மு மூ மெ மே மை மொ மோ மௌ
-ய் ய யா யி யீ யு யூ யெ யே யை யொ யோ யௌ
-ர் ர ரா ரி ரீ ரு ரூ ரெ ரே ரை ரொ ரோ ரௌ
-ல் ல லா லி லீ லு லூ லெ லே லை லொ லோ லௌ
-வ் வ வா வி வீ வு வூ வெ வே வை வொ வோ வௌ
-ழ் ழ ழா ழி ழீ ழு ழூ ழெ ழே ழை ழொ ழோ ழௌ
-ள் ள ளா ளி ளீ ளு ளூ ளெ ளே ளை ளொ ளோ ளௌ
-ற் ற றா றி றீ று றூ றெ றே றை றொ றோ றௌ
-ன் ன னா னி னீ னு னூ னெ னே னை னொ னோ னௌ
-ஶ் ஶ ஶா ஶி ஶீ ஶு ஶூ ஶெ ஶே ஶை ஶொ ஶோ ஶௌ
-ஜ் ஜ ஜா ஜி ஜீ ஜு ஜூ ஜெ ஜே ஜை ஜொ ஜோ ஜௌ
-ஷ் ஷ ஷா ஷி ஷீ ஷு ஷூ ஷெ ஷே ஷை ஷொ ஷோ ஷௌ
-ஸ் ஸ ஸா ஸி ஸீ ஸு ஸூ ஸெ ஸே ஸை ஸொ ஸோ ஸௌ
-ஹ் ஹ ஹா ஹி ஹீ ஹு ஹூ ஹெ ஹே ஹை ஹொ ஹோ ஹௌ
-க்ஷ் க்ஷ க்ஷா க்ஷி க்ஷீ க்ஷு க்ஷூ க்ஷெ க்ஷே க்ஷை க்ஷொ க்ஷோ க்ஷௌ
-ஶ்ரீ
+<p class="text-body2 arishtanemi char" style="font-size:125%;line-height:1.5em">
+அ ஆ இ ஈ உ ஊ எ ஏ ஐ ஒ ஓ ஔ ஃ<br/>
+க ங ச ஞ ட ண த ந ம ப ய ல வ ழ ள ற ன ஜ ஸ ஷ ஹ க்ஷ ஶ <br/>
+க் க கா கி கீ கு கூ கெ கே கை கொ கோ கௌ<br/>
+ங் ங ஙா ஙி ஙீ ஙு ஙூ ஙெ ஙே ஙை ஙொ ஙோ ஙௌ<br/>
+ச் ச சா சி சீ சு சூ செ சே சை சொ சோ சௌ<br/>
+ஞ் ஞ ஞா ஞி ஞீ ஞு ஞூ ஞெ ஞே ஞை ஞொ ஞோ ஞௌ<br/>
+ட் ட டா டி டீ டு டூ டெ டே டை டொ டோ டௌ<br/>
+ண் ண ணா ணி ணீ ணு ணூ ணெ ணே ணை ணொ ணோ ணௌ<br/>
+த் த தா தி தீ து தூ தெ தே தை தொ தோ தௌ<br/>
+ந் ந நா நி நீ நு நூ நெ நே நை நொ நோ நௌ<br/>
+ப் ப பா பி பீ பு பூ பெ பே பை பொ போ பௌ<br/>
+ம் ம மா மி மீ மு மூ மெ மே மை மொ மோ மௌ<br/>
+ய் ய யா யி யீ யு யூ யெ யே யை யொ யோ யௌ<br/>
+ர் ர ரா ரி ரீ ரு ரூ ரெ ரே ரை ரொ ரோ ரௌ<br/>
+ல் ல லா லி லீ லு லூ லெ லே லை லொ லோ லௌ<br/>
+வ் வ வா வி வீ வு வூ வெ வே வை வொ வோ வௌ<br/>
+ழ் ழ ழா ழி ழீ ழு ழூ ழெ ழே ழை ழொ ழோ ழௌ<br/>
+ள் ள ளா ளி ளீ ளு ளூ ளெ ளே ளை ளொ ளோ ளௌ<br/>
+ற் ற றா றி றீ று றூ றெ றே றை றொ றோ றௌ<br/>
+ன் ன னா னி னீ னு னூ னெ னே னை னொ னோ னௌ<br/>
+ஜ் ஜ ஜா ஜி ஜீ ஜு ஜூ ஜெ ஜே ஜை ஜொ ஜோ ஜௌ<br/>
+ஷ் ஷ ஷா ஷி ஷீ ஷு ஷூ ஷெ ஷே ஷை ஷொ ஷோ ஷௌ<br/>
+ஸ் ஸ ஸா ஸி ஸீ ஸு ஸூ ஸெ ஸே ஸை ஸொ ஸோ ஸௌ<br/>
+ஹ் ஹ ஹா ஹி ஹீ ஹு ஹூ ஹெ ஹே ஹை ஹொ ஹோ ஹௌ<br/>
+க்ஷ் க்ஷ க்ஷா க்ஷி க்ஷீ க்ஷு க்ஷூ க்ஷெ க்ஷே க்ஷை க்ஷொ க்ஷோ க்ஷௌ <br/>
+ஶ் ஶ ஶா ஶி ஶீ ஶு ஶூ ஶெ ஶே ஶை ஶொ ஶோ ஶௌ<br/>
+ஶ்ரீ<br/>
 </p>
 </div>
   </q-page>
@@ -227,7 +228,7 @@ export default {
 <style scoped>
 @font-face {
   font-family: 'Arishtanemi';
-  src: url('../../assets/Arishtanemi-Tamil.ttf')
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/arishtanemi-tamil/Arishtanemi-Tamil.ttf')
 }
 .char {
     font-size:130%;

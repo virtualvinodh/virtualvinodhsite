@@ -36,6 +36,11 @@ export default {
       ],
       talks: [
         {
+          title: 'Handwriting metrics extraction: a case study in medieval texts (En inglés). Manuscrito y pantalla: innovaciones y tendencias de formación e investigación en paleografía y cultura manuscrita digital. Universidad Carlos III Madrid, Spain. June 2021.',
+          url: 'https://eventos.uc3m.es/67303/programme/manuscrito-y-pantalla-innovaciones-y-tendencias-de-formacion-e-investigacion-en-paleografia-y-cultu.html',
+          tags: ['digital paleography']
+        },
+        {
           title: 'Transcribing Manipravala: The interplay of Time, Tradition and Technology. Scripts in Asia, c. 1500–2000. University of the Philippines. April 2021.',
           url: 'https://www.ac.upd.edu.ph/index.php/resources/conferences/2489-scripts-asia-1500-2000-conference',
           tags: ['writing system']
@@ -93,13 +98,13 @@ export default {
           tags: ['HCI', 'UI/UX', 'Digital Paleography', 'Digital Humanities']
         },
         {
-          title: 'Turning Black into White through Visual Programming: Peeking into the Black Box of Computational Manuscript Analysis   [To be published] (2021)',
-          url: '',
+          title: 'Turning Black into White through Visual Programming: Peeking into the Black Box of Computational Manuscript Analysis (2020)',
+          url: 'https://www.csmc.uni-hamburg.de/publications/mc/files/articles/mc15-07-sampath.pdf',
           tags: ['HCI', 'UI/UX', 'Digital Humanities']
         },
         {
           title: 'Visual Programming-based Interactive Analysis of Ancient Documents: The Case of Magical Signs in Jewish Manuscripts (2020)',
-          url: '',
+          url: 'https://books.google.de/books?hl=en&lr=&id=wUwfEAAAQBAJ&oi=fnd&pg=PA156&dq=Visual+Programming-based+Interactive+Analysis+of+Ancient+Documents:+The+Case+of+Magical+Signs+in+Jewish+Manuscript&ots=92UkwE7a-c&sig=H9rmCJ3FxhLzte9GO5VETAfe6js&redir_esc=y#v=onepage&q=Visual%20Programming-based%20Interactive%20Analysis%20of%20Ancient%20Documents%3A%20The%20Case%20of%20Magical%20Signs%20in%20Jewish%20Manuscript&f=false',
           tags: ['HCI', 'UI/UX', 'Digital Paleography', 'Digital Humanities']
         },
         {
