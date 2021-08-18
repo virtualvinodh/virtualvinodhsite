@@ -9,7 +9,7 @@
     </q-breadcrumbs>
   <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Tamil-Brahmi Script: An Introduction</p>
-<p>Tamil-Brahmi is the earliest script used to write Old Tamil. Tamil language has since then been written in wide range of continuum of scripts. Tamil-Brahmi is in principle an adaptation of the Brahmi script with several additional features being added to cater the idiosyncrasies of the Tamil language.</p>
+<p>Tamil-Brahmi is the earliest script used to write Old Tamil. The Tamil language has since then been written in wide range of continuum of scripts. Tamil-Brahmi is in principle an adaptation of the Brahmi script with several additional features being added to cater the idiosyncrasies of the Tamil language.</p>
 
 <p>The earliest inscriptional evidences for Old Tamil occur in Tamil-Brahmi. The conventional consensus for the upper bound dating for Tamil-Brahmi is 3rd Century BCE. Though there have been recent contending evidences for pushing the dates further back as far as 5th Century BCE, they do not have mainstream acceptance. Tamil-Brahmi had been in vogue for several centuries since it adaptation until it morphed itself into the more cursive Vaṭṭeḻuttu around 5th Century CE.</p>
 

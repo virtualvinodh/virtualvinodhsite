@@ -8,6 +8,8 @@
     </q-breadcrumbs>
   <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Agastya: Extended Tamil font</p>
+       <p class="text-h5 tamilextended">അഗസ്‌ത്‌യ ഫാഩ്‌ട്‌</p>
+
     <p class="text-body2">
 Agastya is a Unicode fontset for the Extended Tamil script, an experimental attempt to use the full complimentary set of Grantha letters to fill in the gaps in the Tamil script (as compared to the pan-Indic system). </p>
 

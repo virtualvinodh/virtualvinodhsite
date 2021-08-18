@@ -41,6 +41,14 @@ const routes = [
   },
 
   {
+    path: '/projects/vajranandi',
+    component: () => import('layouts/MainLayout.vue'),
+    children: [
+      { path: '', component: () => import('pages/projects/Vajranandi.vue') }
+    ]
+  },
+
+  {
     path: '/projects/adinatha-tamil',
     component: () => import('layouts/MainLayout.vue'),
     children: [

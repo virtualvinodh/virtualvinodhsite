@@ -8,6 +8,8 @@
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Arishtanemi: A Faux Historical Tamil Font</p>
+   <p class="text-h5 arishtanemi">அரிஷ்டநேமி தமிழ் எழுத்துரு</p>
+
     <p class="text-body2">
         The Modern Tamil script is a culmination of 2000 years of evolution, with every serif, every retrace and every other accidental stroke constantly augmented to the characters by several generation of scribes. This clearly explains how a simple Brahmi character such as <span class="brahmi char">𑀓</span> ended up evolving as <span class="tamil char">க</span>. The development of the Tamil script as outlined by Ojha in his book <i><a href="https://archive.org/details/the-paleography-of-india-bharatiya-prachin-lipimala-1919-rai-bahadur-pandit-gaur/page/n1/mode/2up">The Paleography of India</a></i> can be seen here.
     </p>

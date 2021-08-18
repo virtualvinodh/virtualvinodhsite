@@ -17,6 +17,9 @@
         subtitle="October, 2020 - Current"
         icon="work"
       >
+      <div>
+      <i>Telecom Pricing Analytics</i>
+      </div><br/>
         <div>
           Hamburg, Germany
         </div>
@@ -27,6 +30,9 @@
         subtitle="October, 2017 - September, 2020"
         icon="science"
       >
+      <div>
+      <i>UI/UX Design & Image Processing</i>
+      </div><br/>
         <div>
           Department of Informatics, <br/>
           University of Hamburg, Hamburg, Germany

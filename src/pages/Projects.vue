@@ -153,6 +153,16 @@ export default {
           web: '/projects/arishtanemi',
           github: 'https://github.com/virtualvinodh/arishtanemi-tamil',
           width: '75px'
+        },
+        {
+          icon: 'vajranandi-icon.png',
+          title: 'Vajranandi Tamil',
+          lang: 'Fontlab/OpenType',
+          subtitle: 'A Faux Nagari Tamil font',
+          desc: 'An alternative imagination of the Tamil script had it evolved like the nothern Indic scripts such as Devanagari or Bengali with a shared serif exending as a horizontal line over the characters.',
+          web: '/projects/vajranandi',
+          github: 'https://github.com/virtualvinodh/vajranandi-tamil',
+          width: '80px'
         }
       ],
       ProjectsDP: [

@@ -8,6 +8,8 @@
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Aazhvaar: Srivaishnava Telugu font</p>
+        <p class="text-h5 teluguzha">ఆఴ్వార్ తెలుగు ఫాంట్</p>
+
     <p class="text-body2">
    <p>Tamil is one of the liturgical languages of the Śrīvaiṣṇavism sect of Vaiṣṇavism within the broader Hindu religious tradition. As a liturgical language, Tamil texts are frequently expressed in the Telugu script for reading and recitation by Telugu speakers. Both Tamil and Telugu being Dravidian languages share a core set of phonemes that made it relatively easy to express the Tamil language in the Telugu script. However, two Tamil consonants, namely LLLA ழ ḻ & RRA ற ṟ, tended to be problematic.</p>
 
