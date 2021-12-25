@@ -83,6 +83,16 @@ export default {
           width: '50px'
         },
         {
+          icon: 'granthavarman-icon.png',
+          title: 'Granthavarman',
+          lang: 'Vue.js',
+          subtitle: 'A Portal for Grantha',
+          desc: 'It provides various functionalities such as converting Devanagari/Romanized text into Grantha, directly composing in Grantha and various learning resources to practice Grantha.',
+          github: 'https://github.com/virtualvinodh/granthavarman',
+          web: 'https://granthavarman.appspot.com',
+          width: '50px'
+        },
+        {
           icon: 'anunaadam-icon.png',
           title: 'Anunaadam',
           lang: 'Vue.js/PHP',
@@ -95,7 +105,7 @@ export default {
         {
           icon: 'konkanverter-icon.jpg',
           title: 'Konkanverter',
-          lang: 'Vue.js/PHP',
+          lang: 'FST/PHP/C++',
           subtitle: 'Konkani Transliterator',
           desc: 'A finite state transducer based transliteration engine that performs statistical machine transliteration between three different scripts (Devanagari, Kannada & Roman) used to write Konkani .',
           github: 'https://github.com/virtualvinodh/konkanverter',
