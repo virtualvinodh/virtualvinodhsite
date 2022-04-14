@@ -107,10 +107,20 @@ export default {
           title: 'Konkanverter',
           lang: 'FST/PHP/C++',
           subtitle: 'Konkani Transliterator',
-          desc: 'A finite state transducer based transliteration engine that performs statistical machine transliteration between three different scripts (Devanagari, Kannada & Roman) used to write Konkani .',
+          desc: 'A finite state transducer based transliteration engine that performs statistical machine transliteration between three different scripts (Devanagari, Kannada & Roman) used to write Konkani.',
           github: 'https://github.com/virtualvinodh/konkanverter',
           web: 'http://www.konkanverter.com',
           width: '100px'
+        },
+        {
+          icon: 'manipravala-icon.png',
+          title: 'Manipravala.com',
+          subtitle: '',
+          lang: 'Wordpress',
+          github: '',
+          desc: 'This website focuses on the Tamil Manipravalas, especially the widespread Śrīvaiṣṇava variant, but hopes to progressively integrate other forms of it (e.g., Jain Tamil Manipravala).',
+          web: 'http://www.manipravala.com/wp/',
+          width: '110px'
         }
       ],
       ProjectsFonts: [

@@ -2,7 +2,7 @@
   <q-page padding>
         <p class="text-h4"> Unicode </p>
         <p> I’ve been directly and indirectly involved in encoding several Indic scripts/characters in the Universal Character Set (UCS). I am particularly interested in the encoding of minority scripts/characters and also supporting minority & historical orthographies in Unicode.</p>
-      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="add" class="q-mr-sm"/>Published/Accepted Characters ({{charList.length}})</p>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="add" class="q-mr-sm"/>Published/Accepted Characters ({{charList.length + 77}})</p>
       <div class="q-pa-md row items-start q-gutter-sm">
           <char-card v-bind="char" v-for="char in charList" :key="char.char"></char-card>
       </div>
@@ -27,6 +27,24 @@ export default {
   data () {
     return {
       docList: [
+        {
+          title: 'Further Response to Tulu Academy Documents',
+          id: 'L2/22-032',
+          script: 'Tulu-Tigalari',
+          link: 'https://www.unicode.org/L2/L2022/22032-tulu-academy-resp.pdf'
+        },
+        {
+          title: 'Updated proposal to encode the Tulu-Tigalari script in Unicode (replaces L2/21-210)',
+          id: 'L2/22-031',
+          script: 'Tulu-Tigalari',
+          link: 'https://www.unicode.org/L2/L2022/22031-tulu-tigalari-prop.pdf'
+        },
+        {
+          title: 'Updated proposal to encode Tulu-Tigalari script in Unicode',
+          id: 'L2/21-210',
+          script: 'Tulu-Tigalari',
+          link: 'https://www.unicode.org/L2/L2021/21210-tulu-tigalari.pdf'
+        },
         {
           title: 'Replies to Tulu-Tigalari Issues',
           id: 'L2/21-147',
@@ -417,6 +435,13 @@ export default {
           script: 'laoproposal',
           docid: 'L2/21-093',
           doclink: 'http://www.unicode.org/L2/L2021/21093-lao-yamakkan.pdf'
+        },
+        {
+          name: 'Tulu-Tigalari Script',
+          char: '𑎀 𑎒',
+          script: 'tuluproposal',
+          docid: 'L2/22-031',
+          doclink: 'https://www.unicode.org/L2/L2022/22031-tulu-tigalari-prop.pdf'
         }
       ]
     }

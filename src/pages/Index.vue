@@ -3,7 +3,7 @@
     <p class="text-h4 q-ma-lg cards">Vinodh Rajan</p> <br/>
 <div class="banner bg-grey-2 q-pa-md text-body1">
 <q-img src="../assets/prof1.jpg" width="95px" class="float-left q-ml-sm q-mt-sm q-mb-sm q-mr-md"/>
-I'm a computer scientist interested in writing systems, languages and digital humanities. After working as a software engineer in India for three years, I pursued a PhD in Digital Paleography at the University of St Andrews, Scotland. This was followed by a rather interesting four years in academia in Scotland and Germany. Currently, I work as a Product Manager in Hamburg. In my free time, I develop and maintain open-source projects, and write peer-reviewed articles and blog entries.
+I'm a computer scientist interested in writing systems, languages and digital humanities. After working as a software engineer in India for three years, I pursued a PhD in Digital Paleography at the University of St Andrews, Scotland. This was followed by a rather interesting four years in academia in Scotland and Germany. Currently, I work as a Senior Consultant in Hamburg. In my free time, I develop and maintain open-source projects, and write peer-reviewed articles and blog entries.
 </div>
     <div class="q-ma-md row items-start q-gutter-sm">
       <home-card name="Profile" icon="fingerprint" link="/profile" desc="Professional timeline & media appearances" tags="work, education"></home-card>

@@ -123,6 +123,11 @@ export default {
 }
 
 @font-face {
+  font-family: 'Tulu Codechart';
+  src: url('../assets/Tulu-Tigalari_Unicode-Regular.ttf')
+}
+
+@font-face {
   font-family: 'Aazhvaar Telugu';
   src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aazhvaar-telugu/AazhvaarTelugu.otf')
 }
@@ -198,6 +203,11 @@ export default {
 .laoproposal {
   font-family: "Lao Codechart" !important;
   line-height: 1.6em;
+}
+.tuluproposal {
+  font-family: "Tulu Codechart" !important;
+  line-height: 1.6em;
+  font-size: 500%;
 }
 .title-letter {
   font-size: 240%;

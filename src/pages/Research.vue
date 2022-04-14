@@ -36,6 +36,11 @@ export default {
       ],
       talks: [
         {
+          title: 'Grantha Lipi Online Workshop',
+          url: 'https://www.youtube.com/channel/UCIuWIYE9g5KhDVeGPx85zJg',
+          tags: ['writing system']
+        },
+        {
           title: 'Handwriting metrics extraction: a case study in medieval texts (En inglés). Manuscrito y pantalla: innovaciones y tendencias de formación e investigación en paleografía y cultura manuscrita digital. Universidad Carlos III Madrid, Spain. June 2021.',
           url: 'https://eventos.uc3m.es/67303/programme/manuscrito-y-pantalla-innovaciones-y-tendencias-de-formacion-e-investigacion-en-paleografia-y-cultu.html',
           tags: ['digital paleography']
