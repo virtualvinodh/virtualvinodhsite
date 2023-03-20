@@ -6,7 +6,7 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="குண்டலகேசி" />
     </q-breadcrumbs>
-      <div class="q-ml-lg q-mr-xl">
+      <div class="q-ml-lg q-mr-xl tamilold">
 
     <p class="text-h5">குண்டலகேசி</p>
     <p><small><i>Composed: April, 2010</i></small></p>

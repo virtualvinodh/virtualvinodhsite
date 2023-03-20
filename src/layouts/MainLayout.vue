@@ -107,6 +107,20 @@ export default {
 <style>
 @import url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/fonts.css');
 
+.tamilold {
+  font-family: "Mukta Malar Regular" !important;
+  font-feature-settings: "ss04", "kern";
+  font-size: 120%;
+}
+
+.tamil {
+  font-size: 85%;
+}
+
+.tamilextended {
+  font-size: 85%;
+}
+
 @font-face {
   font-family: 'Lao Pali';
   src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/Lanexang_Mon4.otf')
@@ -115,6 +129,11 @@ export default {
 @font-face {
   font-family: 'Tamil Brahmi';
   src: url('../assets/TamilBrahmiCodeChart.otf')
+}
+
+@font-face {
+  font-family: 'Bengali Codechart';
+  src: url('../assets/bengaliproposal.otf')
 }
 
 @font-face {
@@ -202,6 +221,10 @@ export default {
 }
 .laoproposal {
   font-family: "Lao Codechart" !important;
+  line-height: 1.6em;
+}
+.bengaliproposal {
+  font-family: "Bengali Codechart" !important;
   line-height: 1.6em;
 }
 .tuluproposal {

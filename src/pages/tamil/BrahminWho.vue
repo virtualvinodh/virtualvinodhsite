@@ -6,7 +6,7 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="யார் பிராமணர் ? வாசெட்ட சூத்திரம்" />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">யார் பிராமணர் ? வாசெட்ட சூத்திரம்</p>
     <p><small><i>April , 2011</i></small></p>
 <p><i>[திரிபிடகம் –> சூத்திர பிடகம் —> மஜ்ஜிம நிகாயம் –> பிராமண வர்க்கம் –> வாசெட்ட சூத்திரம்]</i>

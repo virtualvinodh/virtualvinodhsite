@@ -4,9 +4,9 @@
         <p class="text-h5"> Professional Timeline </p>
         <div class="div1 desktop-only">
         <q-img
-          src="../assets/fullprofile.png"
-          width="200px"
-          class="fixed-bottom-right q-mr-sm hue"
+          src="../assets/full-prof9.png"
+          width="300px"
+          class="fixed-bottom-right hue"
           />
         </div>
         <div class="div2">
@@ -18,10 +18,10 @@
         icon="work"
       >
       <div>
-      <i>Telecom Pricing Analytics</i>
+      <i>Data Engineering, Cloud Architecture, <br/> Legacy System Modernization & Frontend Design & Development</i>
       </div><br/>
         <div>
-          Hamburg, Germany
+          Clintworld GmbH, Hamburg, Germany
         </div>
       </q-timeline-entry>
 
@@ -31,7 +31,7 @@
         icon="science"
       >
       <div>
-      <i>UI/UX Design & Image Processing</i>
+      <i>UI/UX Design, No-Code Development & Image Processing</i>
       </div><br/>
         <div>
           Department of Informatics, <br/>
@@ -55,6 +55,9 @@
         subtitle="September, 2012 - July, 2016"
         icon="school"
       >
+      <div>
+      <i>Data Quantification, Data Analysis, Data Visualization & UI/UX Design</i>
+      </div><br/>
         <div>
           School of Computer Science <br/>
           University of St Andrews, St Andrews, Scotland
@@ -66,6 +69,9 @@
         subtitle="November, 2009 - August, 2012"
         icon="work"
       >
+      <div>
+      <i>Software Quality Assurance & .NET development</i>
+      </div><br/>
         <div>
           Cognizant Technology Solutions, Chennai, India
         </div>
@@ -116,12 +122,15 @@
   <div class="div3">
   <p class="text-h5"> Media </p>
   <ol class="text-body1">
-    <li><a href="https://restofworld.org/2021/tulu-unicode-script/">IForget emoji, the real Unicode drama is over an endangered Indian script</a> (Aug, 2021)</li>
-    <li> <a href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December, 2019) </li>
-    <li> <a href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July, 2019)</li>
-    <li> <a href="https://blogs.cs.st-andrews.ac.uk/csblog/2019/03/06/lao-characters-for-pali-added-to-unicode-12/">Univ. of St Andrews post about Lao Pali letters</a> (March, 2019)</li>
-    <li><a href="http://virtualvinodh.com/pdfs/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August, 2012)</li>
-    <li><a href="http://virtualvinodh.com/pdfs/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November, 2011)</li>
+    <li><a href="/downloads/Maatrika-jan-23.pdf" target="_blank">The Story of Satisar Sharada</a> (Jan, 2023)</li>
+    <li><a target="_blank" href="https://southeastasianlibrarygroup.wordpress.com/2022/11/27/online-tools-for-southeast-asian-librarianship/">Online tools for Southeast Asian librarianship</a> (Nov, 2022)</li>
+    <li><a target="_blank" href="https://blogs.bl.uk/digital-scholarship/2022/08/burmese-script-conversion-using-aksharamukha.html">Burmese Script Conversion using Aksharamukha</a> (Aug, 2022)</li>
+    <li><a target="_blank" href="https://restofworld.org/2021/tulu-unicode-script/">Forget emoji, the real Unicode drama is over an endangered Indian script</a> (Aug, 2021)</li>
+    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December, 2019) </li>
+    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July, 2019)</li>
+    <li> <a target="_blank" href="https://blogs.cs.st-andrews.ac.uk/csblog/2019/03/06/lao-characters-for-pali-added-to-unicode-12/">Univ. of St Andrews post about Lao Pali letters</a> (March, 2019)</li>
+    <li><a target="_blank" href="http://virtualvinodh.com/pdfs/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August, 2012)</li>
+    <li><a target="_blank" href="http://virtualvinodh.com/pdfs/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November, 2011)</li>
   </ol>
   </div>
   </q-page>
@@ -142,7 +151,11 @@ export default {
 }
 .hue {
   animation: hue 120s infinite;
-  opacity: 0.5
+  opacity: 0.8
+}
+.trans {
+  filter: grayscale(50%);
+  opacity: 0.8
 }
 @keyframes hue {
   0%, 100%  { filter: hue-rotate(0deg); }

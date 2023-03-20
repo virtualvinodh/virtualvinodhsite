@@ -6,7 +6,7 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="தமிழ் நாட்டு புத்தர் சிலைகள்" />
     </q-breadcrumbs>
-      <div class="q-ml-lg q-mr-xl">
+      <div class="q-ml-lg q-mr-xl tamilold">
 
     <p class="text-h5">தமிழ் நாட்டு புத்தர் சிலைகள்
 

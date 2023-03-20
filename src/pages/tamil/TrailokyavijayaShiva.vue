@@ -7,7 +7,7 @@
       <q-breadcrumbs-el label="திரைலோக்கியவிஜயரும் சிவனும்
 " />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">திரைலோக்கியவிஜயரும் சிவனும்
 </p>
     <p><small><i>Composed: March, 2011</i></small></p>

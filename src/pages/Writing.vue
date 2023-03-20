@@ -7,7 +7,7 @@
       <home-card name="Mantras" img="hum-siddham.png" size="45px" link="/writings/mantras"  desc="Various Buddhist spells and incantations" tags="religious studies"></home-card>
       <home-card name="Assorted" icon="article" link="/writings/assorted"  desc="Assorted collection of articles" tags="homosexuality, languages, religious studies"></home-card>
       <home-card name="தமிழ்" img="tamil-a.png" size="45px" link="/writings/tamil" desc="தமிழில் எழுதப்பட்ட கட்டுரைகள்"
-      tags="தமிழ்"></home-card>
+      tags="தமிழ்" class="tamilold"></home-card>
     </div>
   </q-page>
 </template>

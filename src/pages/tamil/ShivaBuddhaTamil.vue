@@ -6,7 +6,7 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="சிவனின் புத்த வியாகரணம்" />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">சிவனின் புத்த வியாகரணம்</p>
     <p><small><i>Composed: , 2010</i></small></p>
 <p>

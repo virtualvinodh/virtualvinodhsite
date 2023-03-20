@@ -1,12 +1,12 @@
 <template>
   <q-page padding>
-    <q-breadcrumbs class="q-mb-md">
+    <q-breadcrumbs class="q-mb-md tamilold">
       <q-breadcrumbs-el label="Home" icon="home" to="/" />
       <q-breadcrumbs-el label="Writings" icon="create" to="/writings" />
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="தமிழகத்தில் வடவெழுத்துக்கள்" />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">தமிழகத்தில் வடவெழுத்துக்கள்</p>
     <p><small><i>Composed: July, 2010</i></small></p>
 <p>

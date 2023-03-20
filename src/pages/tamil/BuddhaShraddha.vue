@@ -6,7 +6,7 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="நம்பிக்கை… சிரத்தை" />
     </q-breadcrumbs>
-      <div class="q-ml-lg q-mr-xl">
+      <div class="q-ml-lg q-mr-xl tamilold">
 
     <p class="text-h5">நம்பிக்கை… சிரத்தை
 </p>

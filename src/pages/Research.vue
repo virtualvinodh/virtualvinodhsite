@@ -10,7 +10,7 @@
       </ul>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="campaign" class="q-mr-sm"/>Talks ({{talks.length}})</p>
       <ol>
-      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
+      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="link" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ol>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="article" class="q-mr-sm"/>Publications ({{publications.length}})</p>
       <ol>
@@ -36,8 +36,13 @@ export default {
       ],
       talks: [
         {
-          title: 'Grantha Lipi Online Workshop',
-          url: 'https://www.youtube.com/channel/UCIuWIYE9g5KhDVeGPx85zJg',
+          title: 'Grantha Lipi Online Workshop (March, 2023)',
+          url: 'https://www.youtube.com/playlist?list=PLi14qEeGqHj6pm1cw3OYSOTdl4wy-Ml_W',
+          tags: ['writing system']
+        },
+        {
+          title: 'Grantha Lipi Online Workshop (March, 2022)',
+          url: 'https://www.youtube.com/playlist?list=PL29pbJdIrUl1zCD9jk81mTZrlrF3B2dUf',
           tags: ['writing system']
         },
         {

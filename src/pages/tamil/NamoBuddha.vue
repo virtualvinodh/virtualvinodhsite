@@ -6,11 +6,12 @@
       <q-breadcrumbs-el label="தமிழ்" to="/writings/tamil" />
       <q-breadcrumbs-el label="" />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">ஓம் நமோ புத்தாய</p>
     <p><small><i>Composed: August, 2011</i></small></p>
 <p class="blockquote">
 || யோ த⁴ர்மம்ʼ பஸ்²யதி ஸ பு³த்³த⁴ம்ʼ பஸ்²யதி ||<br/>
+<span class="tamilextended">|| യോ ധര്‌മം പശ്യതി സ ബുദ്‌ധം പശ്യതി ||</span> <br/>
 || எவர் தர்மத்தை காண்கிறாரோ அவர் புத்தரை காண்கிறார் ||<br/><br/>
 <i>— சாலிஸ்தம்ப சூத்திரம்</i>
 

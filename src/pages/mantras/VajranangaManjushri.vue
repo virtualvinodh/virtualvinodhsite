@@ -28,7 +28,12 @@
 labheta madavihvalāṃ jhaṭiti kāminīṃ kāmukaḥ .#
 tamullasitaḍambaraṃ surucirāṅgarāgāruṇaṃ#
 namāmi sumanaḥśaraṃ satatamāryamañjuśriyaṃ ..</transliterate></p>
-
+<p>
+  Thinking of whom [for] even a muhurta [of Time] , men who desire the <br/>
+desired beautiful passionate loving woman may get [her] immediately |<br/>
+He [who has] splendid appearance, [who has] a body radiant of red-passion<br/>
+I constantly pay homage to [that] [bodhisattva] Arya Manjushri [who has] flower-arrows ||
+</p>
     <hr/>
 <p> Expectedly, he is invoking Manjushri assuming the form of Kamadeva a.k.a Vajra Ananga Manjushri. As we had earlier seen, the bodhisattva’s Vajra-Ananga form is used in the Tantric ritual of Vashikarana. The first part of the invocation is probably a direct reference to this. The second part describes Manjushri as Kamadeva himself.
 

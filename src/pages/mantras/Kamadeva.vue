@@ -13,7 +13,7 @@
     <p><small><i>Composed: Nov, 2012. Updated: Sep, 2020</i></small></p>
     <q-img src="../../assets/mantras/kamadeva-1.jpg" width="150px" class="float-left q-ma-md" />
     <p class="text-body2">Kamadeva, the god of love, is perhaps the one of the most famous deities of Hinduism. As the Indian counterpart to Cupid, he is the presiding deity for love, desire, sex & attraction. His usual epithet is Manmatha, which is explained as "mato manaso manthaḥ manmathaḥ", he who churns the heart [and hence] churner of hearts. Love/Desire being formless he is also called Ananga [The one without body]. He has a parrot as the vehicle and carries a bow made of sugarcane strung with bees, using which he shoots flower-arrows to instill passion among people.</p>
-    <p>Contary to the Victorian inspired puritanism which was established in post-independant India, Ancient and Medieval India were very expressive of desire. Love (and as an extension Ssx) had a deep and importance place inAancient India. The various Kashastras, Kāmasūtra, Ratirahasya, Anaṇgaraṇga, Nāgarasarvasva, which spans across various periods of history bear witness to this factor. Maithuna (copulation) was one of the pañcamakāra-s (five M’s) behind the theory of Indian tantra.</p>
+    <p>Contary to the Victorian inspired puritanism which was established in post-independant India, Ancient and Medieval India were very expressive of desire. Love (and as an extension Ssx) had a deep and importance place inAancient India. The various Kamashastras, Kāmasūtra, Ratirahasya, Anaṇgaraṇga, Nāgarasarvasva, which spans across various periods of history bear witness to this factor. Maithuna (copulation) was one of the pañcamakāra-s (five M’s) behind the theory of Indian tantra.</p>
     <p>As a matter of fact, Kamadeva himself was worshipped as a deity in Ancient India and there were supposedly specific temples dedicated to Kamadeva. People prayed to Kamadeva to fulfil their desire (which was mostly for a loved one). For instance, the Tamil epic Cīvaka Cintāmaṇi dated to the 10th century, speaks of a princess named Suramañjarī,  who visits the temple of Kamadeva and prays for attaining the man she desires (the protagonist of the epic Jīvaka). The text also refers to the fact that the idol of Kamadeva was made of gold in that temple.</p>
     <p class="blockquote">[…] செம்பொன் மாடம் புக்கு அநங்கன் பேணி வரம் கொள்வல் நாளை என்றாள் […]<br/>
 […] cempoṉ māṭam pukku anaṅkaṉ pēṇi varam koḷval nāḷai eṉṟāḷ […] (verse 2052)
@@ -48,7 +48,6 @@ klīṃ kāmadevāya namaḥ</transliterate></p>
 <p class="text-h5">Kāmadeva Nāmāṣṭakam: Eight Names of Kamadeva</p>
 
 <p>Namashtakams are a group of eight names used to praise a deity. Mantramahodadhi presents the names along with the Praṇava (oṁ), kāma bīja (klīm), name in the dative case (caturthī) and finally ending with the homage (namaḥ)</p>
-<p>
 
         <script-tab v-model="tab"></script-tab>
     <hr/>
@@ -91,14 +90,14 @@ oṃ klīṃ puṣpabāṇāya namaḥ</transliterate></p>
 </p>
 <hr/>
  <p> <transliterate source="IAST" :target="tab"  class="text-body1">
- </transliterate>
-</p><hr/>
-<p class="blockquote">gāyatryeṣā budhairuktā japtā janavimohinī
 kāmadevāya vidmahe .#
 puṣpabāṇāya dhīmahi .#
 tanno'naṅgaḥ pracodayāt ..#
+ </transliterate>
+</p><hr/>
+<p class="blockquote">gāyatryeṣā budhairuktā japtā janavimohinī
 </p>
-<p class="blockquote">ThisGayatri [when] spoken & chanted by the learned [causes] attraction of people
+<p class="blockquote">This Gayatri [when] spoken & chanted by the learned [causes] attraction of people
 
 </p>
 <p class="text-h6">Verses Invoking Kamadeva
@@ -119,7 +118,7 @@ devadeva jagannātha vāñchitārthapradāyaka .#
 kṛtsnān pūraya metvarthaṃ kāmān kāmeśvarīpriya ..
 </transliterate>
 </p><hr/>
-<p>Oh! God of Gods, lord of the world, bestowerof the desired material gains. <br/>
+<p>Oh! God of Gods, lord of the world, bestower of the desired material gains. <br/>
 Completely fulfill material gains [and] desires for me , Oh! lover of Kameshvari (Rati)..</p>
 <p class="text-h6">Miscellaneous Mantras </p>
 <p>There are two other mantras of Kamadeva. But I couldn’t trace their source. I give them as such and I am not sure of the validity or correctness.</p>

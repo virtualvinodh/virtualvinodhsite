@@ -28,6 +28,24 @@ export default {
     return {
       docList: [
         {
+          title: 'Disunification of Tulu-Tigalari script & Invented Tulu Script',
+          id: 'L2/23-055',
+          script: 'Tulu-Tigalari',
+          link: 'https://www.unicode.org/L2/L2023/23055-tulu-tigalari-reply.pdf'
+        },
+        {
+          title: 'Proposal to Encode Alternate BA for the Bengali Language (Revised)',
+          id: 'L2/22-268R',
+          script: 'Bengali',
+          link: 'https://www.unicode.org/L2/L2022/22268r-bengali-alternate-ba.pdf'
+        },
+        {
+          title: 'Proposal to Encode Alternate BA for the Bengali Language',
+          id: 'L2/22-268',
+          script: 'Bengali',
+          link: 'https://www.unicode.org/L2/L2022/22268-bengali-alternate-ba.pdf'
+        },
+        {
           title: 'Further Response to Tulu Academy Documents',
           id: 'L2/22-032',
           script: 'Tulu-Tigalari',
@@ -442,6 +460,13 @@ export default {
           script: 'tuluproposal',
           docid: 'L2/22-031',
           doclink: 'https://www.unicode.org/L2/L2022/22031-tulu-tigalari-prop.pdf'
+        },
+        {
+          name: 'Bengali Letter Alternate BA',
+          char: 'ৰ (ব্দ)',
+          script: 'bengaliproposal',
+          docid: 'L2/22-268R',
+          doclink: 'https://www.unicode.org/L2/L2022/22268r-bengali-alternate-ba.pdf'
         }
       ]
     }

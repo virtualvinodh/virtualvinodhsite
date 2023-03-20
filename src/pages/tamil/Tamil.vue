@@ -5,7 +5,7 @@
       <q-breadcrumbs-el label="Writings" icon="create" to="/writings" />
       <q-breadcrumbs-el label="தமிழ்" />
     </q-breadcrumbs>
-      <div class="q-ml-lg q-mr-xl">
+      <div class="q-ml-lg q-mr-xl tamilold">
 
     <p class="text-h5">தமிழ்</p>
     <p class="text-body2">

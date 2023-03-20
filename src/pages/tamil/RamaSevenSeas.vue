@@ -7,7 +7,7 @@
       <q-breadcrumbs-el label="ஏழ்கடல் சூழ் இராமர் புகழ்
 " />
     </q-breadcrumbs>
-    <div class="q-ml-lg q-mr-xl">
+    <div class="q-ml-lg q-mr-xl tamilold">
     <p class="text-h5">ஏழ்கடல் சூழ் இராமர் புகழ்
 </p>
 <p>

@@ -32,7 +32,7 @@
 
 <p>Therefore, we cannot conceive the creator of the world as something existing.</p>
 
-<p>(Transcibed from: <a href="http://www.buddhistphilosophy.info/nagarjuna_refutation_of_god">http://www.buddhistphilosophy.info/nagarjuna_refutation_of_god</a> )</p>
+<p>(Transcibed from: <a href="https://web.archive.org/web/20091124074902/http://www.buddhistphilosophy.info/">http://www.buddhistphilosophy.info/nagarjuna_refutation_of_god</a> )</p>
 </div>
   </q-page>
 </template>
