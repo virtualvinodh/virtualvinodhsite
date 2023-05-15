@@ -113,14 +113,6 @@ export default {
   font-size: 120%;
 }
 
-.tamil {
-  font-size: 85%;
-}
-
-.tamilextended {
-  font-size: 85%;
-}
-
 @font-face {
   font-family: 'Lao Pali';
   src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha/aksharamukha-front/src/statics/Lanexang_Mon4.otf')
@@ -177,6 +169,16 @@ export default {
 }
 
 @font-face {
+  font-family: 'Idhmavaha Sans';
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/idhmavaha_sans.otf')
+}
+
+@font-face {
+  font-family: 'Idhmavaha Serif';
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/idhmavaha_serif.otf')
+}
+
+@font-face {
   font-family: 'Lao Codechart';
   src: url('../assets/lao_code_chart_yamakkan.otf')
 }
@@ -219,6 +221,16 @@ export default {
   font-family: "Lopamudra Serif" !important;
   line-height: 1.6em;
 }
+
+.idhmavahasans {
+  font-family: "Idhmavaha Sans" !important;
+  line-height: 1.6em;
+}
+.idhmavahaserif {
+  font-family: "Idhmavaha Serif" !important;
+  line-height: 1.6em;
+}
+
 .laoproposal {
   font-family: "Lao Codechart" !important;
   line-height: 1.6em;

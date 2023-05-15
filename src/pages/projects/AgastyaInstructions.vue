@@ -10,12 +10,7 @@
   <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Installation Instructions</p>
     <ul>
-    <li> Double-clicking on the .exe file might result in a dialogue box that asks for your confirmation to proceed with the installation. Please select 'Yes' </li><br/>
-    <li> Click <i>Install Keyman Desktop</i> to proceed with the installation <br/>
-    <q-img src="../../assets/keyman_te_1.png" width="400px" class="q-ma-md"/> </li><br/>
-    <li> Once Keyman is installed, Click <i>Start Keyman</i>.   <br/>
-    <q-img src="../../assets/keyman_te_2.png" width="400px" class="q-ma-md" /> </li><br/>
-    <li>You should be able to see the Keyman icon (that looks like keyboard key) in your taskbar.<br/>
+    <li>Please make sure, Keyman is already running on your system. You should be able to see the Keyman icon (that looks like keyboard key) in your taskbar.<br/>
     <q-img src="../../assets/keyman_te_3.png" width="400px" class="q-ma-md" /> <br/>
     Sometimes it may also be hidden and needs to be expanded in case you have too many icons in your taskbar<br/>
     <q-img src="../../assets/keyman_te_4.png" width="200px" class="q-ma-md" /> </li><br/>
