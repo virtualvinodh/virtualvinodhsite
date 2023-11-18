@@ -8,7 +8,7 @@
     </q-breadcrumbs>
   <div class="q-ml-lg q-mr-xl">
     <p class="text-h5">Agastya: Extended Tamil font</p>
-       <p class="text-h5 tamilextended">അഗസ്‌ത്‌യ ഫാഩ്‌ട്‌</p>
+       <p class="text-h5 tamilextended">അഗസ്‌ത്‌യ: എക്‌സ്‌ടെണ്‌ഡെഡ്‌ തമിഴ്‌ ഫാഩ്‌ട്‌</p>
 
     <p class="text-body2">
       <script-tab v-model="tab"></script-tab>
@@ -44,13 +44,13 @@ Agastya is a Unicode fontset consisting of three fonts: <i>Agastya</i>, <i>Lopam
     <td><i>Tamil (Simple)</i></td>
   </tr>
     <td class="tamilextended" style="line-height: 2em;"><ruby>ശു‌<rt>SHU</rt></ruby>ക്‌ലാമ്<ruby>‌ബ<rt>BA</rt></ruby>ര<ruby>‌ധ<rt>DHA</rt></ruby><ruby>രം<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M</rt></ruby> വിഷ്‌<ruby>ണും<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M</rt></ruby>&nbsp;<ruby>‌ശ<rt>SHA</rt></ruby><ruby>ശി<rt>SHI</rt></ruby>വര്‌‌<ruby>ണം<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M</rt></ruby> ചതുര്‌<ruby>ഭു<rt>BHU</rt></ruby>ജമ്‌ .
-പ്‌രസന്‌നവ<ruby>ദ<rt>DA</rt></ruby><ruby>നം<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M</rt></ruby>&nbsp;<ruby>‌ധ്‌<rt>DH</rt></ruby>യായേത്‌ സര്‌വവി<ruby>ഘ്‌<rt>GH</rt></ruby>നോപ<ruby>‌ശാ‌<rt>SHAA</rt></ruby>ന്‌തയേ ..</td>
+      <span class="desktop-only">പ്‌രസന്‌നവ<ruby>ദ<rt>DA</rt></ruby><ruby>നം<rt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M</rt></ruby>&nbsp;<ruby>‌ധ്‌<rt>DH</rt></ruby>യായേത്‌ സര്‌വവി<ruby>ഘ്‌<rt>GH</rt></ruby>നോപ<ruby>‌ശാ‌<rt>SHAA</rt></ruby>ന്‌തയേ ..</span></td>
 
 <td class="tamil">ஶுக்லாம்ப³ரத⁴ரம்ʼ விஷ்ணும்ʼ ஶஶிவர்ணம்ʼ சதுர்பு⁴ஜம் .
-ப்ரஸந்நவத³நம்ʼ த்⁴யாயேத் ஸர்வவிக்⁴நோபஶாந்தயே ..</td>
+<span class="desktop-only">ப்ரஸந்நவத³நம்ʼ த்⁴யாயேத் ஸர்வவிக்⁴நோபஶாந்தயே ..</span></td>
 
 <td class="tamil">ஶுக்லாம்பரதரம் விஷ்ணும் ஶஶிவர்ணம் சதுர்புஜம் .
-ப்ரஸந்நவதநம் த்யாயேத் ஸர்வவிக்நோபஶாந்தயே ..</td>
+  <span class="desktop-only">ப்ரஸந்நவதநம் த்யாயேத் ஸர்வவிக்நோபஶாந்தயே ..</span></td>
 
 </table>
 <p>For the complete Vishnu Sahasranama, visit <a href="https://sanskritdocuments.org/doc_vishhnu/vsahasranew.html" target="_blank">here</a> and pick <i>Tamil (Extended)</i> from the drop down menu on the right corner. The site also has various other texts that can be rendered in Extended Tamil.
@@ -179,12 +179,9 @@ Agastya is a Unicode fontset consisting of three fonts: <i>Agastya</i>, <i>Lopam
     <td class="idhmavahasans">ക ച ട ത പ ള</td>
   </tr>
   <tr>
-    <td class="tamilextended">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ । <br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
-    <td class="lopamudrasans">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ । <br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
-    <td class="idhmavahasans">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ ।<br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
+    <td class="tamilextended">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
+    <td class="lopamudrasans">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
+    <td class="idhmavahasans">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
   </tr>
 </table>
 <br/>
@@ -209,12 +206,9 @@ Agastya is a Unicode fontset consisting of three fonts: <i>Agastya</i>, <i>Lopam
     <td class="idhmavahaserif">ക ച ട ത പ ള</td>
   </tr>
   <tr>
-    <td class="tamilextendedserif">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ । <br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
-    <td class="lopamudraserif">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ । <br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
-    <td class="idhmavahaserif">കഃ ഖഗൌഘാങചിച്‌ഛൌജാ ഝാഞ്‌ജ്‌ഞോഽടൌഠീഡഡണ്‌ഢണഃ ।<br/>
-തഥോദധീന്‌പഫര്‌ബാഭീര്‌മയോഽരില്‌വാശിഷാം സഹഃ ॥</td>
+    <td class="tamilextendedserif">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
+    <td class="lopamudraserif">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
+    <td class="idhmavahaserif">വിഖ്‌യാതാനി ഉദ്‌ഭവഃ ധ്‌യാനമ്‌ നാഥായ ചാതിരിക്‌താനി കോടി</td>
   </tr>
 </table>
 </p>
@@ -245,12 +239,12 @@ Agastya is a Unicode fontset consisting of three fonts: <i>Agastya</i>, <i>Lopam
         </span>
     </table>
 <br/>
-<p>The ligated forms are not formed by default but rather be requested using ZWJ.</p>
+<p>The ligated forms are not formed by default but rather be requested using ZWJ. They can also be toggled using stylistic sets as discussed in the next section.</p>
 <p> GA + ZWJ + Vowel Sign U ⟶ <span class="tamilextended">ഗ‍ു</span><br/>
 GA + ZWJ + Vowel Sign UU ⟶ <span class="tamilextended">ഗ‍ൂ</span></p>
 <p></p>
 <p class="text-h6"> Stylistic Sets</p>
-  <p> SS01 toggles the tamil-style -u/-ū ligature for the extended Grantha consonants and SS02 toggles the Tamil-style ligatures for the already Tamilized Grantha consonants.</p>
+  <p> SS01 toggles the Tamil-style -u/-ū ligature for the extended Grantha consonants and SS02 toggles the Tamil-style ligatures for the already Tamilized Grantha consonants. Other sets, toggle between alternate forms of various sconsonants.</p>
   <p>
 <table border="1px">
   <th>
