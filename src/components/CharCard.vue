@@ -47,4 +47,7 @@ a:visited {
 .center {
  text-align: center;
 }
+.sharada {
+  font-size:10%
+}
 </style>

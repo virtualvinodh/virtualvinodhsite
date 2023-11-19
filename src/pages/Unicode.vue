@@ -2,7 +2,7 @@
   <q-page padding>
         <p class="text-h4"> Unicode </p>
         <p> I’ve been directly and indirectly involved in encoding several Indic scripts/characters in the Universal Character Set (UCS). I am particularly interested in the encoding of minority scripts/characters and also supporting minority & historical orthographies in Unicode.</p>
-      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="add" class="q-mr-sm"/>Published/Accepted Characters ({{charList.length + 77}})</p>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="add" class="q-mr-sm"/>Published/Accepted Characters ({{charList.length + 77 + 7}})</p>
       <div class="q-pa-md row items-start q-gutter-sm">
           <char-card v-bind="char" v-for="char in charList" :key="char.char"></char-card>
       </div>
@@ -27,6 +27,12 @@ export default {
   data () {
     return {
       docList: [
+        {
+          title: 'Proposal to Encode Kashmiri Sharada Characters',
+          id: 'L2/23-122',
+          script: 'Sharada',
+          link: 'https://www.unicode.org/L2/L2023/23122-kashmiri-sharada.pdf'
+        },
         {
           title: 'Disunification of Tulu-Tigalari script & Invented Tulu Script',
           id: 'L2/23-055',
@@ -467,6 +473,13 @@ export default {
           script: 'bengaliproposal',
           docid: 'L2/22-268R',
           doclink: 'https://www.unicode.org/L2/L2022/22268r-bengali-alternate-ba.pdf'
+        },
+        {
+          name: 'Kashmiri Sharada Characters',
+          char: '𑆑𑆼𑇌𑆑𑇋𑆶𑆑𑆾𑇋𑆑𑇋',
+          script: 'sharada',
+          docid: 'L2/23-122',
+          doclink: 'https://www.unicode.org/L2/L2023/23122-kashmiri-sharada.pdf'
         }
       ]
     }
@@ -483,4 +496,5 @@ a:visited {
   text-decoration: none;
   color:black;
 }
+
 </style>

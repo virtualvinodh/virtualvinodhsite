@@ -51,8 +51,13 @@ export default {
           tags: ['digital paleography']
         },
         {
+          title: 'Satisar Sharada Font Release (From 55:00). April 2021.',
+          url: 'https://www.facebook.com/watch/live/?ref=search&v=764751994430933',
+          tags: ['writing system']
+        },
+        {
           title: 'Transcribing Manipravala: The interplay of Time, Tradition and Technology. Scripts in Asia, c. 1500–2000. University of the Philippines. April 2021.',
-          url: 'https://www.ac.upd.edu.ph/index.php/resources/conferences/2489-scripts-asia-1500-2000-conference',
+          url: 'https://www.youtube.com/watch?v=DA7iSMGQ81Q&ab_channel=AsianCenterUPDiliman',
           tags: ['writing system']
         },
         {
@@ -62,7 +67,7 @@ export default {
         },
         {
           title: 'Contemporizing a Historic Script: The Development of Adinatha Tamil Brahmi Typeface and its Community Impact. ATypi 2020 All Over. October 2020.',
-          url: 'https://1drv.ms/p/s!AtFLPqAjKrW4xvRFhqjarDa_Q92-Fw?e=JsKjG0',
+          url: 'https://www.youtube.com/watch?v=VkBtPjQ0ORI&ab_channel=ATypI',
           tags: ['font engineering', 'writing system']
         },
         {
@@ -105,43 +110,43 @@ export default {
         {
           title: 'Enabling Quantitative Digital Paleography: The Design and Development of Script Analyzer [To be published] (2021)',
           url: '',
-          tags: ['HCI', 'UI/UX', 'Digital Paleography', 'Digital Humanities']
+          tags: ['No-code development', 'Image Processing', 'Digital Paleography', 'Digital Humanities']
         },
         {
           title: 'Turning Black into White through Visual Programming: Peeking into the Black Box of Computational Manuscript Analysis (2020)',
           url: 'https://www.csmc.uni-hamburg.de/publications/mc/files/articles/mc15-07-sampath.pdf',
-          tags: ['HCI', 'UI/UX', 'Digital Humanities']
+          tags: ['No-code development', 'Image Processing', 'Digital Humanities']
         },
         {
           title: 'Visual Programming-based Interactive Analysis of Ancient Documents: The Case of Magical Signs in Jewish Manuscripts (2020)',
-          url: 'https://books.google.de/books?hl=en&lr=&id=wUwfEAAAQBAJ&oi=fnd&pg=PA156&dq=Visual+Programming-based+Interactive+Analysis+of+Ancient+Documents:+The+Case+of+Magical+Signs+in+Jewish+Manuscript&ots=92UkwE7a-c&sig=H9rmCJ3FxhLzte9GO5VETAfe6js&redir_esc=y#v=onepage&q=Visual%20Programming-based%20Interactive%20Analysis%20of%20Ancient%20Documents%3A%20The%20Case%20of%20Magical%20Signs%20in%20Jewish%20Manuscript&f=false',
-          tags: ['HCI', 'UI/UX', 'Digital Paleography', 'Digital Humanities']
+          url: 'https://link.springer.com/chapter/10.1007/978-3-030-68787-8_11',
+          tags: ['No-code development', 'Image Processing', 'Digital Paleography', 'Digital Humanities']
         },
         {
           title: 'Making DIA accessible to non-experts: Designing a Visual Programming Language for Document Image Analysis (2019)',
           url: 'https://ieeexplore.ieee.org/iel7/8890610/8892828/08892861.pdf?casa_token=63ejwg7yG1oAAAAA:fU6R2La2swqDiLc5lz5D2fOxYT_5G0afIBlwgn_Q4hwhQfwRlJVw3Odeq1c89pFbLnf9Rnt0nHw',
-          tags: ['HCI', 'UI/UX', 'Digital Humanities']
+          tags: ['No-code development', 'Image Processing', 'Digital Humanities']
         },
         {
           title: 'AMAP: A Visual Programming Language Based System to Support Document Image Analysis (2019)',
-          url: '',
-          tags: ['HCI', 'UI/UX', 'Digital Humanities']
+          url: 'https://dl.gi.de/items/091883ff-c107-40df-bff7-38f8ec59b351',
+          tags: ['No-code development', 'Image Processing', 'Digital Humanities']
         },
         {
           title: 'Advanced Manuscript Analysis Portal (AMAP): An Interactive Visual Language Environment for Manuscript Studies (2019)',
-          url: 'https://dev.clariah.nl/files/dh2019/boa/0696.html',
-          tags: ['HCI', 'UI/UX', 'Digital Humanities']
+          url: 'https://dataverse.nl/dataset.xhtml?persistentId=hdl:10411/WQBHYY',
+          tags: ['No-code development', 'Image Processing', 'Digital Humanities']
         },
         {
           title: 'From Eye-to-Eye to Hand-in-Hand: Collaborative Solution Building in Interdisciplinary Manuscript Research (2018)',
-          url: 'https://dl.acm.org/doi/pdf/10.1145/3340764.3345372?casa_token=ngvaqs05p5wAAAAA:Gdbr1CATHakvf68sQ8mSs7kBNHSGhojlT1247R1CxikaNPFwVRBqybyblZ975mQprj39y2rjkMOiyg',
+          url: 'https://dl.gi.de/items/28fc3924-5530-43b0-8a54-6264f1af5c45',
           tags: ['Software Engineering', 'Digital Humanities']
         },
 
         {
           title: 'Bringing Paleography to the Table: Developing an Interactive Manuscript Exploration System for Large Multi-Touch Devices (2018)',
           url: 'https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf',
-          tags: ['HCI', 'UI/UX', 'Digital Humanities']
+          tags: ['No-code development', 'Image Processing', 'Digital Paleography', 'Digital Humanities']
         },
         {
           title: 'Quantifying scripts: Defining metrics of characters for quantitative and descriptive analysis (2017)',

@@ -4,9 +4,9 @@
         <p class="text-h5"> Professional Timeline </p>
         <div class="div1 desktop-only">
         <q-img
-          src="../assets/full-prof9.png"
+          src="../assets/fullprofnew.png"
           width="300px"
-          class="fixed-bottom-right hue"
+          class="fixed-bottom-right"
           />
         </div>
         <div class="div2">
