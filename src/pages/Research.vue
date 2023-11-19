@@ -42,7 +42,7 @@ export default {
         },
         {
           title: 'Grantha Lipi Online Workshop (March, 2022)',
-          url: 'https://www.youtube.com/playlist?list=PL29pbJdIrUl1zCD9jk81mTZrlrF3B2dUf',
+          url: 'https://www.youtube.com/playlist?list=PL29pbJdIrUl1NLSjLi4lWbGOr7EW0DS9p',
           tags: ['writing system']
         },
         {
