@@ -8,9 +8,25 @@
       <ul>
         <li v-for="(pub, index) in thesis" :key="'thesis-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'thesis-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ul>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="campaign" class="q-mr-sm"/>Workshops ({{workshops.length}})</p>
+      <ol>
+      <li v-for="(pub, index) in workshops" :key="'talk-'+index" class="text-body1">{{pub.title}}
+
+        <a :href="pub.url" target="_blank"><q-icon name="link" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a>
+
+        <span v-if="'add_urls' in pub"><a v-for="(add_urls, indexu) in Object.entries(pub.add_urls)" :key="'urlks' + indexu" :href="add_urls[1]" target="_blank"><q-icon name="videocam" size="25px" class="q-mr-sm q-ml-sm"></q-icon></a> </span>
+
+        <br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
+      </ol>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="campaign" class="q-mr-sm"/>Talks ({{talks.length}})</p>
       <ol>
-      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="link" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
+      <li v-for="(pub, index) in talks" :key="'talk-'+index" class="text-body1">{{pub.title}}
+
+        <a :href="pub.url" target="_blank"><q-icon name="link" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a>
+
+        <span v-if="'add_urls' in pub"><a v-for="(add_urls, indexu) in Object.entries(pub.add_urls)" :key="'urlks' + indexu" :href="add_urls[1]" target="_blank"><q-icon name="videocam" size="25px" class="q-mr-sm q-ml-sm"></q-icon></a> </span>
+
+        <br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'talk-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ol>
       <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="article" class="q-mr-sm"/>Publications ({{publications.length}})</p>
       <ol>
@@ -34,7 +50,18 @@ export default {
           tags: ['quantitative analysis', 'handwriting analysis', 'handwriting modeling', 'digital paleography']
         }
       ],
-      talks: [
+      workshops: [
+        {
+          title: 'OpenType Font Programming for Tamil fonts (in Tamil) (August, 2024)',
+          url: 'https://1drv.ms/b/s!AtFLPqAjKrW4yskqefGz2z-tnramOA?e=hw5fWx',
+          tags: ['opentype', 'unicode', 'writing system']
+        },
+        {
+          title: 'Introduction to Indian scripts (December, 2023).',
+          url: 'https://1drv.ms/p/s!AtFLPqAjKrW4yr9MqHT2zSI6fY4ZDQ?e=saAl6i',
+          add_urls: { US: 'https://www.youtube.com/playlist?list=PLi14qEeGqHj7DstfspcRW-vUJCPdPpW01', India1: 'https://www.facebook.com/100092288894272/videos/250097184515383', India2: 'https://www.facebook.com/100092288894272/videos/225947700534473' },
+          tags: ['writing system']
+        },
         {
           title: 'Grantha Lipi Online Workshop (March, 2023)',
           url: 'https://www.youtube.com/playlist?list=PLi14qEeGqHj6pm1cw3OYSOTdl4wy-Ml_W',
@@ -43,6 +70,20 @@ export default {
         {
           title: 'Grantha Lipi Online Workshop (March, 2022)',
           url: 'https://www.youtube.com/playlist?list=PL29pbJdIrUl1NLSjLi4lWbGOr7EW0DS9p',
+          tags: ['writing system']
+        }
+      ],
+      talks: [
+        {
+          title: 'Tools for Transliteration, Technology & Tools for Languages and Computations,  NIT Trichy (September, 2024)',
+          url: 'https://1drv.ms/p/s!AtFLPqAjKrW4yskAyhmK3Iu77meAtg?e=heQmWL',
+          // add_urls: { Video: 'https://www.youtube.com/live/ev7vqNXfYJg?si=hCVX4LYT2NwSv-z2&t=8471' },
+          tags: ['writing system']
+        },
+        {
+          title: 'Keeping Classical Contemporary: Preserving and Revitalizing Classical Paradigms in Contemporary contexts, KaniTamil24, Chennai (February, 2024)',
+          url: 'https://1drv.ms/p/s!AtFLPqAjKrW4ysknPJYSOzAPgtIKFw?e=4beLGc',
+          add_urls: { Video: 'https://www.youtube.com/live/ev7vqNXfYJg?si=hCVX4LYT2NwSv-z2&t=8471' },
           tags: ['writing system']
         },
         {

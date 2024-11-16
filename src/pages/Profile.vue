@@ -4,8 +4,8 @@
         <p class="text-h5"> Professional Timeline </p>
         <div class="div1 desktop-only">
         <q-img
-          src="../assets/fullprofnew.png"
-          width="300px"
+          src="../assets/pic_full_2024.jpg"
+          width="250px"
           class="fixed-bottom-right"
           />
         </div>
@@ -122,9 +122,11 @@
   <div class="div3">
   <p class="text-h5"> Media </p>
   <ol class="text-body1">
+    <li><a href="https://blogs.bl.uk/digital-scholarship/2024/10/southeast-asian-language-and-script-conversion-using-aksharamukha.html" target="_blank">Southeast Asian Language and Script Conversion Using Aksharamukha </a> (Oct, 2024)</li>
     <li><a href="/downloads/Maatrika-jan-23.pdf" target="_blank">The Story of Satisar Sharada</a> (Jan, 2023)</li>
     <li><a target="_blank" href="https://southeastasianlibrarygroup.wordpress.com/2022/11/27/online-tools-for-southeast-asian-librarianship/">Online tools for Southeast Asian librarianship</a> (Nov, 2022)</li>
     <li><a target="_blank" href="https://blogs.bl.uk/digital-scholarship/2022/08/burmese-script-conversion-using-aksharamukha.html">Burmese Script Conversion using Aksharamukha</a> (Aug, 2022)</li>
+    <li><a target="_blank" href="https://multilingual.com/issues/june-2022/switching-between-languages-hard-enough/">Switching between languages? Hard enough. : How about switching between scripts?</a> (June, 2022)</li>
     <li><a target="_blank" href="https://restofworld.org/2021/tulu-unicode-script/">Forget emoji, the real Unicode drama is over an endangered Indian script</a> (Aug, 2021)</li>
     <li> <a target="_blank" href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December, 2019) </li>
     <li> <a target="_blank" href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July, 2019)</li>

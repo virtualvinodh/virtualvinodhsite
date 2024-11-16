@@ -2,7 +2,7 @@
 <div>
     <p class="text-h4 q-ma-lg cards">Vinodh Rajan</p> <br/>
 <div class="banner bg-grey-2 q-pa-md text-body1">
-<q-img src="../assets/photo_1-EDIT.jpg" width="140px" class="float-left q-ml-sm q-mt-sm q-mb-sm q-mr-md"/>
+<q-img src="../assets/pic_prof_half_2024.png" width="140px" class="float-left q-ml-sm q-mt-sm q-mb-sm q-mr-md"/>
 I am a computer scientist with a passion for data, writing systems, languages, and digital humanities. After obtaining my PhD in Digital Paleography, I had a brief academic stint both in Scotland and Germany. Currently, I work as a Senior Consultant in Berlin, specializing in Data Engineering, Cloud Architecture, Legacy System Modernization and Frontend Design & Development.
 </div>
     <div class="q-ma-md row items-start q-gutter-sm">
