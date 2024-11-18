@@ -1,0 +1,49 @@
+runtime: python39
+
+automatic_scaling:
+  max_instances: 2
+
+handlers:
+- url: /
+  static_files: spa/index.html
+  upload: spa/index.html
+
+- url: /img/(.*)
+  static_files: spa/img/\1
+  upload: spa/img/(.*)
+
+- url: /statics/(.*)
+  static_files: spa/statics/\1
+  upload: spa/statics/(.*)
+
+- url: /pdfs/(.*)
+  static_files: spa/downloads/\1
+  upload: spa/downloads/(.*)
+
+- url: /download/(.*)
+  static_files: spa/downloads/\1
+  upload: spa/downloads/(.*)
+
+- url: /downloads/(.*)
+  static_files: spa/downloads/\1
+  upload: spa/downloads/(.*)
+
+- url: /fonts/(.*)
+  static_files: spa/fonts/\1
+  upload: spa/fonts/(.*)
+
+- url: /css/(.*)
+  static_files: spa/css/\1
+  upload: spa/css/(.*)
+
+- url: /js/(.*)
+  static_files: spa/js/\1
+  upload: spa/js/(.*)
+
+- url: /fonts/(.*)
+  static_files: spa/fonts/\1
+  upload: spa/fonts/(.*)
+
+- url: /.*
+  static_files: spa/index.html
+  upload: spa/index.html
