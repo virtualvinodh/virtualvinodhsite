@@ -10,12 +10,12 @@
     <p class="text-h5">Grantha Fonts</p>
     <p class="text-h6">Unicode Fonts</p>
     <p class="text-body2">There are four Unicode Grantha fonts as of now. They use the proper Unicode characters from the <a href="https://en.wikipedia.org/wiki/Grantha_(Unicode_block)" target="_blank">Grantha Unicode block</a> to encode the characters. The sample Unicode text below should be properly rendered as Grantha with any of the following fonts. For long term purposes, it is best advised to compose Grantha text with Unicode characters and render them with a Unicode font as well.</p>
-    <p> You need Office 365/Windows 10 (or higher) to render Unicode grantha properly in a word processor. If you're using an older version of Windows/Office, please download and use the latest version of <a href="https://www.libreoffice.org/download/download/">Libreoffice</a> to appropriately render Grantha.
+    <p> You need Office 365/Windows 10 (or higher) to render Unicode grantha properly in a word processor. If you're using an older version of Windows/Office, please download and use the latest version of <a href="https://www.libreoffice.org/downloads/download/">Libreoffice</a> to appropriately render Grantha.
     <p>𑌅𑌨𑌿𑌰𑍋𑌧𑌮𑍍 𑌅𑌨𑍁𑌤𑍍𑌪𑌾𑌦𑌮𑍍 𑌅𑌨𑍁𑌚𑍍𑌛𑍇𑌦𑌮𑍍 𑌅𑌶𑌾𑌶𑍍𑌵𑌤𑌮𑍍 ।<br/>
 𑌅𑌨𑍇𑌕𑌾𑌰𑍍𑌥𑌮𑍍 𑌅𑌨𑌾𑌨𑌾𑌰𑍍𑌥𑌮𑍍 𑌅𑌨𑌾𑌗𑌮𑌮𑍍 𑌅𑌨𑌿𑌰𑍍𑌗𑌮𑌮𑍍 ॥<br/>
 𑌯𑌃 𑌪𑍍𑌰𑌤𑍀𑌤𑍍𑌯𑌸𑌮𑍁𑌤𑍍𑌪𑌾𑌦𑌂 𑌪𑍍𑌰𑌪𑌞𑍍𑌚𑍋𑌪𑌶𑌮𑌂 𑌶𑌿𑌵𑌮𑍍 ।<br/>
 𑌦𑍇𑌶𑌯𑌾𑌮𑌾𑌸 𑌸𑌂𑌬𑍁𑌦𑍍𑌧𑌸𑍍𑌤𑌂 𑌵𑌨𑍍𑌦𑍇 𑌵𑌦𑌤𑌾𑌂 𑌵𑌰𑌮𑍍 ॥<br/> </p>
-<p> <i>Also see <a href="http://www.virtualvinodh.com/writings/grantha/keyboards">Grantha Keyboards</a> </i></p>
+<p> <i>Also see <a href="https://www.virtualvinodh.com/writings/grantha/keyboards">Grantha Keyboards</a> </i></p>
     <p class="text-h6">Noto Sans Grantha</p>
     <p><a href="https://github.com/googlefonts/noto-fonts/tree/master/hinted/ttf/NotoSansGrantha" target="_blank">Download</a></p>
     <!-- <q-img src="../../assets/grantha/notosans-sample.png" width="400px" class="q-mb-md"/> -->
@@ -59,7 +59,7 @@
     <p>There are also Unicode fonts that borrow other code blocks to encode Grantha. </p>
     <p class="text-h6">e-Grantamil</p>
     <p>It is an opentype font, where Grantha is hack encoded in the Bengali unicode block. In the absence of the font, the text will rendered as Bengali.</p>
-    <p><a href="http://virtualvinodh.com/download/e-Grantamil.ttf">Download</a></p>
+    <p><a href="https://virtualvinodh.com/downloads/e-Grantamil.ttf">Download</a></p>
     <p class="granthagrantamil egrant">
 অনিরোধম্ অনুত্পাদম্ অনুচ্ছেদম্ অশাশ্ৱতম্ । <br/>
 অনেকার্থম্ অনানার্থম্ অনাগমম্ অনির্গমম্ ॥ <br/>
@@ -82,7 +82,7 @@
     <p class="text-h6">Extended ASCII Legacy Fonts</p>
     <p>These are legacy fonts that encode individual Grantha glyphs in the Extened ASCII range. This was a common practice among Indic scripts before Unicode became the norm.</p>
     <p class="text-h6">Ganapati</p>
-    <p><a href="http://www.virtualvinodh.com/download/ganapathy.ttf">Download</a></p>
+    <p><a href="https://www.virtualvinodh.com/downloads/ganapathy.ttf">Download</a></p>
     <p class="ganapati">
 qG]1l3g* qG6D«3F* qG61I‰F* qx3x²D* - <br/>
 q1Gy3f9* qG3G3f9* qG3uk* qG]u9k* .<br/>
@@ -91,7 +91,7 @@ K, h\D[D8vk6D«3F; h\h1V3hxk; x]z* -<br/>
     </p>
     <!-- <q-img src="../../assets/grantha/ganapati_sample.jpg" width="400px" class="q-mb-md"/> -->
     <!--<p class="text-h6">Kunchitapada</p>
-    <p><a href="http://www.virtualvinodh.com/download/kunchitapada.ttf">Download</a></p>
+    <p><a href="https://www.virtualvinodh.com/downloads/kunchitapada.ttf">Download</a></p>
     <p class="kunchitapada">
 qG]1l3g* qG6D«3F* qG61I‰F* qx3x²D* - <br/>
 q1Gy3f9* qG3G3f9* qG3uk* qG]u9k* .<br/>

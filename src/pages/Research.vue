@@ -8,7 +8,7 @@
       <ul>
         <li v-for="(pub, index) in thesis" :key="'thesis-'+index" class="text-body1">{{pub.title}}<a :href="pub.url" target="_blank"><q-icon name="picture_as_pdf" size="25px" class="q-mr-sm q-ml-sm" v-if="pub.url !== ''"></q-icon></a><br/><q-badge v-for="(tag,indexk) in pub.tags" :key="'thesis-'+index+'-key-'+indexk" class="q-ma-xs text-black" color="grey-4">{{tag}}</q-badge></li>
       </ul>
-      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="campaign" class="q-mr-sm"/>Workshops ({{workshops.length}})</p>
+      <p class="text-h5"><q-avatar size="36px" font-size="32px" icon="online_prediction" class="q-mr-sm"/>Workshops ({{workshops.length}})</p>
       <ol>
       <li v-for="(pub, index) in workshops" :key="'talk-'+index" class="text-body1">{{pub.title}}
 
@@ -133,12 +133,12 @@ export default {
         },
         {
           title: 'Quantifying Scripts: Defining metrics of characters for quantitative and descriptive analysis. University of Hamburg. October 2014',
-          url: 'http://virtualvinodh.com/pdfs/NETamil.pdf',
+          url: 'https://virtualvinodh.com/downloads/NETamil.pdf',
           tags: ['Handwriting Quantification', 'Digital Paleography', 'Digital Humanities']
         },
         {
           title: 'Modeling & Analyzing Development of Scripts, SACHI Seminar, School of Computer Science, University of St Andrews. May 2013',
-          url: 'http://virtualvinodh.com/pdfs/Seminar-SACHI.pdf',
+          url: 'https://virtualvinodh.com/downloads/Seminar-SACHI.pdf',
           tags: ['Handwriting Analysis', 'Handwriting Modeling']
         }
       ],
@@ -186,7 +186,7 @@ export default {
 
         {
           title: 'Bringing Paleography to the Table: Developing an Interactive Manuscript Exploration System for Large Multi-Touch Devices (2018)',
-          url: 'https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf',
+          url: 'https://web.archive.org/web/20180513215838/https://das2018.cvl.tuwien.ac.at/media/filer_public/85/fd/85fd4698-040f-45f4-8fcc-56d66533b82d/das2018_short_papers.pdf',
           tags: ['No-code development', 'Image Processing', 'Digital Paleography', 'Digital Humanities']
         },
         {

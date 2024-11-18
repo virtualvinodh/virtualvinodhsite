@@ -21,7 +21,7 @@ Adinatha is a working Unicode Tamil Brahmi font. Named after Adinatha, the first
      <p> Adinatha is released free of charge and under a free licence (the Open Font Licence) so as to encourage its usage among academics and other interested parties, and to thereby encourage more people to be interested in epigraphy and digitization. Adinatha is based on the existing Brahmi encoding and largely draws upon Dr Iravatham Mahadevan’s Early Tamil Epigraphy for the shapes of the glyphs.</p>
 <p>The font contains both OpenType & Graphite table and hence properly renders in a wide variety of systems. The font package also includes an AAT version for compatability with OS X applications that do not support OpenType. This font project is combined effort of myself, <a href="https://sites.google.com/site/jamadagni/home">Shriramana Sharma</a> & <a href="http://www.udhayam.in/">Udhaya Sankar</a>.</p>
 
-<p>You can download the font package <a href="http://www.virtualvinodh.com/download/Adinatha-Tamil-Brahmi.zip">here</a>. The font manual can be read from <a href="http://virtualvinodh.com/pdfs/Adinatha_Tamil_Brahmi_Manual.pdf">here</a>.</p>
+<p>You can download the font package <a href="https://www.virtualvinodh.com/downloads/Adinatha-Tamil-Brahmi.zip">here</a>. The font manual can be read from <a href="https://virtualvinodh.com/downloads/Adinatha_Tamil_Brahmi_Manual.pdf">here</a>.</p>
 
 <p>You can also use <a href="http://tamiljinavani.appspot.com" target="_blank">Jinavani</a> to convert modern Tamil script into Tamil-Brahmi and download the rendered text as an image.</p>
 

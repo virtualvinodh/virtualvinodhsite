@@ -131,8 +131,8 @@
     <li> <a target="_blank" href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December, 2019) </li>
     <li> <a target="_blank" href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July, 2019)</li>
     <li> <a target="_blank" href="https://blogs.cs.st-andrews.ac.uk/csblog/2019/03/06/lao-characters-for-pali-added-to-unicode-12/">Univ. of St Andrews post about Lao Pali letters</a> (March, 2019)</li>
-    <li><a target="_blank" href="http://virtualvinodh.com/pdfs/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August, 2012)</li>
-    <li><a target="_blank" href="http://virtualvinodh.com/pdfs/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November, 2011)</li>
+    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August, 2012)</li>
+    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November, 2011)</li>
   </ol>
   </div>
   </q-page>

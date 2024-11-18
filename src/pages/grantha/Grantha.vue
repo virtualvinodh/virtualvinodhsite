@@ -14,7 +14,7 @@
 
     <p class="text-h6">Grantha Script Lessons</p>
 <p>The script is an abugida with complex conjunct formations which makes it difficult to learn. I have attempted to provide an easy-to-read primer for anyone wishing to learn this historical script. The version presented here is the late modern variety of the Grantha script.</p>
-<p> You can download the eBook from <a href="http://www.virtualvinodh.com/download/Grantha%20Script%20Lessons.pdf">here</a>.</p>
+<p> You can download the eBook from <a href="https://www.virtualvinodh.com/downloads/Grantha%20Script%20Lessons.pdf">here</a>.</p>
 <p> It was written around 2009, when I just came out of my teens. The writing style pretty much reflects that. At some point, I will probably rewrite it at some point to make it sound a bit less juvenile :)</p>
 
     <p class="text-h6">Online Practice</p>
