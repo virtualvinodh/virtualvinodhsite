@@ -123,6 +123,7 @@
   <p class="text-h5"> Media </p>
   <ol class="text-body1">
     <li><a href="https://blogs.bl.uk/digital-scholarship/2024/10/southeast-asian-language-and-script-conversion-using-aksharamukha.html" target="_blank">Southeast Asian Language and Script Conversion Using Aksharamukha </a> (Oct, 2024)</li>
+    <li><a href="https://www.youtube.com/watch?v=m9bRk1h9FLU&ab_channel=VinodhRajan"></a>Interview Sun TV (India), KaniTamil 24</a>, January 2024</li>
     <li><a href="/downloads/Maatrika-jan-23.pdf" target="_blank">The Story of Satisar Sharada</a> (Jan, 2023)</li>
     <li><a target="_blank" href="https://southeastasianlibrarygroup.wordpress.com/2022/11/27/online-tools-for-southeast-asian-librarianship/">Online tools for Southeast Asian librarianship</a> (Nov, 2022)</li>
     <li><a target="_blank" href="https://blogs.bl.uk/digital-scholarship/2022/08/burmese-script-conversion-using-aksharamukha.html">Burmese Script Conversion using Aksharamukha</a> (Aug, 2022)</li>

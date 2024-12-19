@@ -74,6 +74,12 @@ export default {
         }
       ],
       talks: [
+      {
+          title: 'Unveiling Scripts: Transliteration with Aksharamukha Tools for Transliteration, 21st Century Curatorship Talk, British Library (December, 2024)',
+          url: 'https://www.virtualvinodh.com/downloads/British_Library_Presentation_Aksharamukha.pdf',
+          // add_urls: { Video: 'https://www.youtube.com/live/ev7vqNXfYJg?si=hCVX4LYT2NwSv-z2&t=8471' },
+          tags: ['transliteration', 'digital humanities', 'writing system' ]
+        },
         {
           title: 'Tools for Transliteration, Technology & Tools for Languages and Computations,  NIT Trichy (September, 2024)',
           url: 'https://1drv.ms/p/s!AtFLPqAjKrW4yskAyhmK3Iu77meAtg?e=heQmWL',
