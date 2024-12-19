@@ -122,18 +122,18 @@
   <div class="div3">
   <p class="text-h5"> Media </p>
   <ol class="text-body1">
-    <li><a href="https://blogs.bl.uk/digital-scholarship/2024/10/southeast-asian-language-and-script-conversion-using-aksharamukha.html" target="_blank">Southeast Asian Language and Script Conversion Using Aksharamukha </a> (Oct, 2024)</li>
-    <li><a href="https://www.youtube.com/watch?v=m9bRk1h9FLU&ab_channel=VinodhRajan"></a>Interview Sun TV (India), KaniTamil 24</a>, January 2024</li>
-    <li><a href="/downloads/Maatrika-jan-23.pdf" target="_blank">The Story of Satisar Sharada</a> (Jan, 2023)</li>
-    <li><a target="_blank" href="https://southeastasianlibrarygroup.wordpress.com/2022/11/27/online-tools-for-southeast-asian-librarianship/">Online tools for Southeast Asian librarianship</a> (Nov, 2022)</li>
-    <li><a target="_blank" href="https://blogs.bl.uk/digital-scholarship/2022/08/burmese-script-conversion-using-aksharamukha.html">Burmese Script Conversion using Aksharamukha</a> (Aug, 2022)</li>
-    <li><a target="_blank" href="https://multilingual.com/issues/june-2022/switching-between-languages-hard-enough/">Switching between languages? Hard enough. : How about switching between scripts?</a> (June, 2022)</li>
-    <li><a target="_blank" href="https://restofworld.org/2021/tulu-unicode-script/">Forget emoji, the real Unicode drama is over an endangered Indian script</a> (Aug, 2021)</li>
-    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December, 2019) </li>
-    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July, 2019)</li>
-    <li> <a target="_blank" href="https://blogs.cs.st-andrews.ac.uk/csblog/2019/03/06/lao-characters-for-pali-added-to-unicode-12/">Univ. of St Andrews post about Lao Pali letters</a> (March, 2019)</li>
-    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August, 2012)</li>
-    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November, 2011)</li>
+    <li><a href="https://blogs.bl.uk/digital-scholarship/2024/10/southeast-asian-language-and-script-conversion-using-aksharamukha.html" target="_blank">Southeast Asian Language and Script Conversion Using Aksharamukha </a> (October 2024)</li>
+    <li><a href="https://www.youtube.com/watch?v=m9bRk1h9FLU&ab_channel=VinodhRajan">Interview Sun TV (India), KaniTamil 24</a> (February 2024)</li>
+    <li><a href="/downloads/Maatrika-jan-23.pdf" target="_blank">The Story of Satisar Sharada</a> (January 2023)</li>
+    <li><a target="_blank" href="https://southeastasianlibrarygroup.wordpress.com/2022/11/27/online-tools-for-southeast-asian-librarianship/">Online tools for Southeast Asian librarianship</a> (November 2022)</li>
+    <li><a target="_blank" href="https://blogs.bl.uk/digital-scholarship/2022/08/burmese-script-conversion-using-aksharamukha.html">Burmese Script Conversion using Aksharamukha</a> (August 2022)</li>
+    <li><a target="_blank" href="https://multilingual.com/issues/june-2022/switching-between-languages-hard-enough/">Switching between languages? Hard enough. : How about switching between scripts?</a> (June 2022)</li>
+    <li><a target="_blank" href="https://restofworld.org/2021/tulu-unicode-script/">Forget emoji, the real Unicode drama is over an endangered Indian script</a> (August 2021)</li>
+    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/blogs/tracking-indian-communities/app-converts-tamil-script-into-its-ancient-versions/">Times of India (Chennai edition) article about Jinavani </a> (December 2019) </li>
+    <li> <a target="_blank" href="https://timesofindia.indiatimes.com/city/chennai/meet-the-three-who-developed-unicode-font-for-tamil-brahmi/articleshow/70048263.cms">Times of India (Chennai edition) article about Adinthatha Tamil-Brahmi font</a> (July 2019)</li>
+    <li> <a target="_blank" href="https://blogs.cs.st-andrews.ac.uk/csblog/2019/03/06/lao-characters-for-pali-added-to-unicode-12/">Univ. of St Andrews post about Lao Pali letters</a> (March 2019)</li>
+    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Times%20Of%20India%20_Interview_Aug_19th_2012.jpg">Interview in Times of India (Mangalore Edition) about Konkanverter</a> (August 2012)</li>
+    <li><a target="_blank" href="https://virtualvinodh.com/downloads/Thendran_Interview_-_Vinodh_Rajan_-_Novemeber_2011.pdf">Interview in a US-based Tamil magazine Thendral about Avalokitam</a> (November 2011)</li>
   </ol>
   </div>
   </q-page>
