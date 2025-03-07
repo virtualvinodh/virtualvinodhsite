@@ -57,7 +57,7 @@ export default {
           title: 'Uchcharaka',
           lang: 'Vue.js/Python',
           subtitle: 'Language Transcriber',
-          desc: 'Provides language transcription of several major European languages to major Indian scripts alongside IPA. As of now supports 6 languages and 9 scripts. Available as a python library.',
+          desc: 'Provides transcription of several major European languages into major Indian scripts alongside IPA. As of now supports 6 languages and 9 scripts. Available as a python library.',
           github: 'https://github.com/virtualvinodh/uchcharaka',
           web: 'https://uchcharaka.aksharamukha.com',
           width: '50px'
@@ -198,8 +198,8 @@ export default {
           icon: 'chakeshvari-icon.png',
           title: 'Chakreshvari Tamil',
           lang: 'Fontlab/OpenType',
-          subtitle: 'A Tamil-based phonetic font',
-          desc: 'A Tamil font with phonetic extensions to the basic character set to display a wide range of non-native phonemes similar to that of the International Phonetic Alphabet (IPA) to be used in  transcriptions.',
+          subtitle: 'A Tamil-esque phonetic font',
+          desc: 'A Tamil-based phonetic font similar to that of the International Phonetic Alphabet (IPA) with various phonetic extensions to transcribe a wide range of non-native phonemes in a Tamil-esque script.',
           web: '/projects/chakreshvari',
           github: 'https://github.com/virtualvinodh/chakreshvari-tamil-phonetic',
           width: '60px'

@@ -7,22 +7,21 @@
 
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">
-    <p class="text-h5">Chakreshvari: A Tamil-based Phonetic Font</p>
-    <p class="text-h5">t͡ʃəkɾeʃʋəɾɪ: ɐ fənɛtɪk tamɪl fɒnt</p>
+    <p class="text-h5">Chakreshvari: A Tamil-esque Phonetic Font</p>
+    <p class="text-h5">t͡ʃəkɾeʃʋəɾɪ: ɐ tamɪlɛsk fənɛtɪk fɒnt</p>
 
-    <p class="text-h5 chakreshvari">சͨͪக்ᷜரேஶ்வரி: அᷔ பᷫனெடிͭͪக்ᷜ டாͭͪͣமில் பாᷫᷲன்ட்ͭͪ</p>
+    <p class="text-h5 chakreshvari">சͨͪக்ᷜரேஶ்வரி: அᷔ டாͭͪͣமிலெஸ்க்ᷜ பᷫனெடிͭͪக்ᷜ பாᷫᷲன்ட்ͭͪ</p>
 
     <p class="text-body2">
       Scripts like Latin and Cyrillic have been historically extended to denote a wide range of phonemes across several languages. In fact, the International Phonetic Alphabet (IPA) is the culmination of extending the Latin alphabet to universally transcribe the pronunciation of any given language (more or less) unambigously. </p>
 
-      <p class="text-body2"><i>All human beings are born free and equal in dignity and rights.</i></p>
-      <p class="text-body2"><i>(UK) ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹiː and iːkwəl ɪn dɪɡnɪti and ɹaɪts</i></p>
+      <p class="text-body2"><i>(English) All human beings are born free and equal in dignity and rights.</i></p>
+      <p class="text-body2"><i>(UK Proununciation) ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹiː and iːkwəl ɪn dɪɡnɪti and ɹaɪts</i></p>
 
     <p class="text-body2">
-      Many North Indic scripts, and even South Indic scripts like Kannada and Telugu, have adopted the Nukta (a diacritic dot) to represent non-native phonemes such as /f/ and /z/. However, Tamil has remained staunchly phonemic, having largely rejected voiced and aspirated characters since its adaptation of Brahmi. </p>
-    <p class="text-body2">
-       The most common problem with using native Tamil transcription is that the script does not differentiate voiced and unvoiced phonemes, resulting in occurances such as both /crate/ and /great/ being rendered as /க்ரேட்/. This is also true for vowels such /æ/ and /ɔ/, which get approximated to the closes native phonems /eː/ and /ɑː/.</p>
-    <p class="text-body2">With English emerging as the de facto global language, and as people migrate to different countries and learn new languages, theres is a need for a Tamil-based phonetic alphabet for native Tamil speakers. Such a system would enable faithful transcription in a Tamil-based alphabet for pedagogical purposes, helping learners achieve accurate pronunciation. This is particularly relevant for dictionaries, where the pronunication can be indicated next to it's meaning. <i>Chakreshvari</i> enables such a Tamil-based phonetic alphabet and helps with the precise transcrption of words to visibly indicate the difference in the source pronunciation.</p>
+      Many North Indic scripts, and even South Indic scripts like Kannada and Telugu, have adopted the Nukta (a diacritic dot) to represent non-native phonemes such as /f/ and /z/. However, Tamil has remained staunchly phonemic, having largely rejected voiced and aspirated characters since its adaptation of Brahmi.
+       The most common problem with using native Tamil transcription is that the script does not differentiate voiced and unvoiced phonemes, resulting in occurances such as both /crate/ and /great/ being rendered as /க்ரேட்/. This is also true for vowels such /æ/ and /ɔ/, which get approximated to the closest native phonemes /eː/ and /ɑː/.</p>
+    <p class="text-body2">With English emerging as the de facto global language, and as people migrate to different countries and learn new languages, theres is a need for a Tamil-esque phonetic alphabet for native Tamil speakers. Such a system would enable faithful transcription in a Tamil-like alphabet for pedagogical purposes, helping learners achieve accurate pronunciation. This is particularly relevant for dictionaries, where the pronunication can be indicated next to its meaning. <i>Chakreshvari</i> is a font that enables such a Tamil-esque phonetic alphabet and helps with the precise transcription of words to visibly indicate the difference in the source pronunciation.</p>
     <ul>
     <li>crate - <span class="chakreshvari"> க்ᷜரேட்ͭ </span>- கூண்டு, பிரப்பங்கூடை</li>
     <li>great - <span class="chakreshvari">க்ᷚரேட்ͭ </span> - மிகப் பெரிய, தலை சிறந்த</li>
@@ -31,18 +30,20 @@
     </ul>
 
     <p class="text-h5">Design</p>
-    <p class="text-body2"> The design criteria were:
+    <p class="text-body2">As a phonetic extension of Tamil characters, the design of the new characters needed to adhere to the following criteria:
       <ul>
         <li>The characters should be both familiar and distinct</li>
-        <li>Any one not familiar with the characters should be able to read using the closest native pronunciation</li>
+        <li>Any one not familiar with the characters should be able to read them using the closest native pronunciation</li>
         <li>The characters should have a clear visual ductus</li>
       </ul>
-    For the basic extensions (e.g. voiced/unvoiced distinction), the characters were created by simply seamlessly fusing Latin and Tamil characters: கk → <span class="chakreshvari"> கᷜ & கg → கᷚ</span>. Other characters were created by through stroke reduction <span class="chakreshvari">கͯ  & கᷛ றͪ  ரᷣ </span>. When strokes couldn't be reduced, they were instead augmented  to create variants <span class="chakreshvari">டͭͪ  டᷙ</span>. For the vowel signs, the idea was to naturally extend them from the closest native phonemees using stroke reduction <span class="chakreshvari">(எͤ கெᷜͤ அͣ காᷜͣ)</span> or stroke augmentaiton <span class="chakreshvari">(ஈ̆ கிᷜ̆  ஏͣ கேᷜͣ)</span> similar to the consonants. The longer vowels were also designed to be natural variants of the shorter vowels using strong elongations just like Tamil <span class="chakreshvari">(எͤ கெᷜͤ ஏͤ கேᷜͤ)</span>.
+    </p>
+    <p class="text-body2">For the basic extensions (e.g. voiced/unvoiced distinction), the characters were created by simply seamlessly fusing Latin and Tamil characters - கk → <span class="chakreshvari"> கᷜ & கg → கᷚ</span>. Other characters were created through stroke reduction - <span class="chakreshvari">கͯ  கᷛ றͪ  ரᷣ </span>. When strokes couldn't be reduced, they were instead augmented  to create variants - <span class="chakreshvari">டͭͪ  டᷙ</span>. For the vowel signs, the idea was to naturally extend them from the closest native phonemes  either stroke reduction <span class="chakreshvari">(e.g. ஈ̆ கிᷜ̆  ஏͣ கேᷜͣ)</span> or  stroke augmentation <span class="chakreshvari">(e.g. எͤ கெᷜͤ அͣ காᷜͣ)</span>, similar to the consonants. The longer vowels were also designed to be natural variants of the shorter vowels using stroke elongations just like Tamil <span class="chakreshvari">(எͤ கெᷜͤ ஏͤ கேᷜͤ)</span>.
     </p>
     <q-img src="../../assets/chakreshvari-design-consonants.png" width="200px" class="q-ma-sm"/>
     <q-img src="../../assets/chakreshvari-design-vowels.png" width="320px" class="q-ma-sm"/>
 <br/><br/>
 <p class="text-h5">Phonemes</p>
+<p class="text-body2">A smaller subset of the IPA, enough to cover the broad trancriptions of major European languages, is supported in the initial version.</p>
 <table border="1" class="chakreshvari text-h6">
     <tr>
         <th>IPA</th>
@@ -192,7 +193,7 @@
 <p class="text-body2">You can download the font <i>Chakreshvari Tamil Phonetic</i> from <a href="https://github.com/virtualvinodh/chakreshvari-tamil-phonetic/raw/refs/heads/main/Chakreshvari-Tamil-Phonetic.otf">here</a>. </p>
 
 <p class="text-h5">Input</p>
-<p class="text-body2">The font was primarily created for the online tool <a href="https://uchcharaka.aksharamukha.com">Uchcharaka</a> to enable IPA-esque transcription of texts in the Tamil script. You can convert IPA text directly to Tamil Phonetic there.</p>
+<p class="text-body2">The font was primarily created for the online tool <a href="https://uchcharaka.aksharamukha.com" target="_blank">Uchcharaka</a> to enable IPA-esque transcription of texts in the Tamil script. You can convert IPA text directly to Tamil Phonetic there.</p>
 <p class="text-h5">English (UK) Transcription</p>
 <p class="text-body2">English is a West Germanic language in the Indo-European language family, whose speakers, called Anglophones, originated in early medieval England on the island of Great Britain. The namesake of the language is the Angles, one of the Germanic peoples that migrated to Britain after its Roman occupiers left. English is the most spoken language in the world, primarily due to the global influences of the former British Empire (succeeded by the Commonwealth of Nations) and the United States. English is the third-most spoken native language, after Mandarin Chinese and Spanish; it is also the most widely learned second language in the world, with more second-language speakers than native speakers.</p>
 <p class="text-body2">ɪŋɡlɪʃ ɪz ɐ wɛst dʒɜːmanɪk laŋɡwɪdʒ ɪnðɪ ɪndəʊjʊəɹəpiən laŋɡwɪdʒ famɪli
