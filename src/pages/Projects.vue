@@ -47,9 +47,19 @@ export default {
           title: 'Aksharamukha',
           lang: 'Vue.js/Python',
           subtitle: 'Script Converter',
-          desc: 'Provides script conversion between various scripts within the Indic cultural sphere. As of now supports 89 scripts and 10 romanization methods. Available as various plugins as well.',
+          desc: 'Provides script conversion between various scripts within the Indic cultural sphere. As of now supports 89 scripts and 10 romanization methods. Available as a plugin and python library.',
           github: 'https://github.com/virtualvinodh/aksharamukha',
-          web: 'https://aksharamukha.appspot.com',
+          web: 'https://www.aksharamukha.com',
+          width: '50px'
+        },
+        {
+          icon: 'uchcharaka-icon.png',
+          title: 'Uchcharaka',
+          lang: 'Vue.js/Python',
+          subtitle: 'Language Transcriber',
+          desc: 'Provides language transcription of several major European languages to major Indian scripts alongside IPA. As of now supports 6 languages and 9 scripts. Available as a python library.',
+          github: 'https://github.com/virtualvinodh/uchcharaka',
+          web: 'https://uchcharaka.aksharamukha.com',
           width: '50px'
         },
         {
