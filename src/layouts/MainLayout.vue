@@ -174,6 +174,11 @@ export default {
 }
 
 @font-face {
+  font-family: 'Chakreshvari';
+  src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/chakreshvari-tamil-phonetic/Chakreshvari-Tamil-Phonetic.otf')
+}
+
+@font-face {
   font-family: 'Idhmavaha Serif';
   src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/idhmavaha_serif.otf')
 }
@@ -228,6 +233,17 @@ export default {
 }
 .idhmavahaserif {
   font-family: "Idhmavaha Serif" !important;
+  line-height: 1.6em;
+}
+
+.chakreshvari1 {
+  font-family: "chakreshvari" !important;
+  line-height: 1.6em;
+}
+
+.chakreshvari {
+  font-family: "chakreshvari" !important;
+  font-feature-settings: "ss01";
   line-height: 1.6em;
 }
 

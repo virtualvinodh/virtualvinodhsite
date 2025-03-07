@@ -3,7 +3,7 @@
     <q-breadcrumbs class="q-mb-md">
       <q-breadcrumbs-el label="Home" icon="home" to="/" />
       <q-breadcrumbs-el label="Projects" icon="create" to="/projects" />
-      <q-breadcrumbs-el label="vajranandi: A Faux Historical Tamil Font" />
+      <q-breadcrumbs-el label="Vajranandi: A Faux Historical Tamil Font" />
 
     </q-breadcrumbs>
     <div class="q-ml-lg q-mr-xl">

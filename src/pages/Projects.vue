@@ -178,11 +178,21 @@ export default {
           icon: 'vajranandi-icon.png',
           title: 'Vajranandi Tamil',
           lang: 'Fontlab/OpenType',
-          subtitle: 'A Faux Nagari Tamil font',
+          subtitle: 'A faux Nagari Tamil font',
           desc: 'An alternative imagination of the Tamil script had it evolved like the nothern Indic scripts such as Devanagari or Bengali with a shared serif exending as a horizontal line over the characters.',
           web: '/projects/vajranandi',
           github: 'https://github.com/virtualvinodh/vajranandi-tamil',
           width: '80px'
+        },
+        {
+          icon: 'chakeshvari-icon.png',
+          title: 'Chakreshvari Tamil',
+          lang: 'Fontlab/OpenType',
+          subtitle: 'A Tamil-based phonetic font',
+          desc: 'A Tamil font with phonetic extensions to the basic character set to display a wide range of non-native phonemes similar to that of the International Phonetic Alphabet (IPA) to be used in  transcriptions.',
+          web: '/projects/chakreshvari',
+          github: 'https://github.com/virtualvinodh/chakreshvari-tamil-phonetic',
+          width: '60px'
         }
       ],
       ProjectsDP: [

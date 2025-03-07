@@ -3,14 +3,14 @@
     <q-card bordered class="project-card">
       <q-card-section>
         <span v-if="icon !== ''">
-        <a :href="web" target="_blank">
+        <a :href="web">
         <q-img
           :src="require('../assets/' + icon)"
           class="project-icon q-mr-md"
           :width="width"
         /> </a>
         </span>
-        <a :href="web" target="_blank"><div class="text-h6">{{title}}</div></a>
+        <a :href="web"><div class="text-h6">{{title}}</div></a>
         <div class="text-subtitle2">{{subtitle}}</div>
       </q-card-section>
 
